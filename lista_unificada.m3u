@@ -11,8 +11,10 @@ http://181.13.252.102:8000/play/a055/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/-/-/0/0/69215475076158.png?raw=true" tvg-logo=" group-title="ARGENTINA"
 https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg"
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/-/-/0/0/69215475076158.png?raw=true" group-title="ARGENTINA",AR|12
-https://celf.cdn.rcs.net.ar/mnp/ip/output.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
+#EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-name="721#IP Noticias HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/69215475076158.png?raw=true" group-title="ARGENTINA" ch-number="29" type="channel",AR|12
+https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" group-title="ARGENTINA",C5N
 http://181.13.252.102:8000/play/a01p/index.m3u8
