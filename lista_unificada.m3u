@@ -2025,10 +2025,11 @@ https://chromecast.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="CINE",Golden
 https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd
 
+#EXTINF:-1  ch-number="306" tvg-id="Cinecanal HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" group-title="MPD 3", Cinecanal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" group-title="CINE",Cinecanal HD
-https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_C/CinecanalHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=acea34a4dadf7896a0280b08496d49d5:6eb61a3bf3411c64f89b594e57d487c6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
