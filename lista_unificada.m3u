@@ -2009,11 +2009,10 @@ https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universa
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , UNIVERSAL PREMIERE HD
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd
 
-#EXTINF:-1  ch-number="347" tvg-id="Universal Reality.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)", Universal Reality
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfbcbe656b34884d8f8dcc57d2dc51f8:d3e2c03003b443ccedd30d6442fbdd40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="PACK PREMIUM (HBO - UNIVERSAL+)"  , UNIVERSAL REALITY HD
+https://chromecast.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd
 
 
 # ============ CINE (90 canales) ============
