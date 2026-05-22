@@ -778,13 +778,14 @@ https://stmvideo7.livecastv.com/rds959/rds959/playlist.m3u8
 
 # ============ INTERIOR - NEUQUEN (33 canales) ============
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="INTERIOR - NEUQUEN", CANAL 7 NEUQUEN
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="INTERIOR - NEUQUEN"  , Canal 7 NEUQUÉN1
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="INTERIOR - NEUQUEN"  , Canal 7 NEUQUEN2
 https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_C/Telefe_Neuquen.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="INTERIOR - NEUQUEN", CANAL 7 NEUQUEN2
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rtnweb.gob.ar/wp-content/uploads/2024/08/logo-neuquen-radio.svg" group-title="INTERIOR - NEUQUEN", RTN NEUQUEN
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
