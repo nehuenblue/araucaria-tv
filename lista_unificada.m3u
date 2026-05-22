@@ -13,25 +13,23 @@ http://190.185.208.125:8000/play/a01r/index.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd
 
 #EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5N.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="ARGENTINA" ch-number="25" type="channel",C5N
-http://190.185.208.125:8000/play/a01p/index.m3u8
+http://181.13.252.102:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-name="Canal 13.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="ARGENTINA" ch-number="13" type="channel",El Trece
-http://190.185.208.125:8000/play/a0bg/index.m3u8
+http://190.60.41.107:8008/play/a0sv/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="ARGENTINA" ch-number="11" type="channel",Telefe
-http://190.185.208.125:8000/play/a06c/index.m3u8
+http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTVLCOPT:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.ar/
 #EXTINF:-0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="ARGENTINA", TV PUBLICA
 http://190.185.208.125:8000/play/a0dg/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9.uy" tvg-name="Canal 9.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="ARGENTINA" ch-number="9" type="channel",El nueve
-http://190.185.208.125:8000/play/a04h/index.m3u8
+http://181.13.252.102:8000/play/a04h/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TN" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="ARGENTINA" ch-number="31" type="channel",TN NOTICIAS
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+http://181.13.252.102:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="La Nacion.uy" tvg-logo="https://git.io/J35ry" group-title="ARGENTINA" ch-number="30" type="channel",La Nación +
 http://190.185.208.125:8000/play/a01s/index.m3u8
