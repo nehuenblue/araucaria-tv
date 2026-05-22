@@ -2134,6 +2134,11 @@ http://45.5.151.62:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CINE",Film&Arts
 http://181.224.255.210:8001/play/a0ql/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91c540d350f34f5386f3f1c77f74001f:54ee72810551da0cba0c45a8df651962
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/691/CH_LOGO/60/40/0/0/444140520763.png" group-title="CINE"   ,Film & Arts 2
+https://chromecast.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_C/Film_Arts.mpd
+
 #EXTINF:-1 tvg-logo="https://www.latingroup.us/images/logocp.png" group-title="CINE",LEG - Cine Premium
 http://190.60.41.107:8008/play/a0po/index.m3u8
 
