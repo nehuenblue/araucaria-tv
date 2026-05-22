@@ -1804,7 +1804,7 @@ https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNe
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/679/CH_LOGO/60/40/0/0/189646490776.png" group-title="CANALES INFANTILES"  ,Discovery Kids
+#EXTINF:-1   tvg-logo="https://git.io/JOTL6" group-title="CANALES INFANTILES"  ,Discovery Kids
 https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_C/Discovery_Kids.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
