@@ -2116,8 +2116,8 @@ https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_C/USA_Network.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="CINE",DHE HD
-https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/9257/CH_LOGO/60/40/0/0/86548895073068.png" group-title="CINE"  ,DHE HD
+https://chromecast.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc_C/DHE.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Y4K2J5CHQCcUtoJGiMRW3w","kid":"1E9A5J0pRcGjcBwIhf8LAA"}],"type":"temporary"}
