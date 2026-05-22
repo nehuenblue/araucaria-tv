@@ -1842,8 +1842,10 @@ https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/68/CH_LOGO/60/40/0/0/8527518907875.png" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO HD
 http://181.78.109.48:9998/play/a017/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO 2
-http://170.78.211.115:8000/play/a0ct/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+#EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-name="HBO 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO 2
+https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/882/CH_LOGO/60/40/0/0/9358483307335.png" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO Family
 http://170.78.211.115:8000/play/a0cu/index.m3u8
