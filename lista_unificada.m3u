@@ -5,37 +5,45 @@
 
 # ============ ARGENTINA (33 canales) ============
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="ARGENTINA",CANALES DE ARGENTINA
-http://181.13.252.102:8000/play/a055/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
+#EXTINF:-1 tvg-id="Canal 26.uy" tvg-name="Canal 26.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" group-title="ARGENTINA" ch-number="26" type="channel",Canal 26
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/-/-/0/0/69215475076158.png?raw=true" tvg-logo=" group-title="ARGENTINA"
-https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 #EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-name="721#IP Noticias HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/69215475076158.png?raw=true" group-title="ARGENTINA" ch-number="29" type="channel",AR|12
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" group-title="ARGENTINA",C5N
-http://181.13.252.102:8000/play/a01p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+#EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5N.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="ARGENTINA" ch-number="25" type="channel",C5N
+https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="ARGENTINA", EL TRECE
-http://45.5.151.62:8000/play/a00e/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+EXTINF:-1 tvg-id="Canal 13.ar" tvg-name="Canal 13.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="ARGENTINA" ch-number="13" type="channel",El Trece
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="ARGENTINA",TELEFE
-http://45.5.151.62:8000/play/a02s/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/400/400/0/0/57769025072354.png" group-title="ARGENTINA" ch-number="11" type="channel",Telefe
+https://cdn.cvattv.com.ar/live/c4eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png" tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo=" group-title="ARGENTINA"
-https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp"
+#EXTINF:-0 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" group-title="ARGENTINA", TV PUBLICA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zEquFz3S7xeuJr4/euh2Yg","kid":"zIyCrC7H6XmVJ8KdtzVOgQ"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.ar/
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png" group-title="ARGENTINA",TV PUBLICA
-http://45.5.151.62:8000/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo=" group-title="ARGENTINA"
-https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg"
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="ARGENTINA",CANAL 9
-http://190.185.208.125:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/96.png" group-title="ARGENTINA", EL NUEVE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YCEi+EJsXJQrjBjSmcxgIA","kid":"JPT/IRE2rmUSobVSIA20BQ"}]}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd|origin=https://portal.app.flow.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
@@ -48,11 +56,11 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticia
 #EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="La Nacion.uy" tvg-logo="https://git.io/J35ry" group-title="ARGENTINA" ch-number="30" type="channel",La Nación +
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" tvg-cotvg-logo=" group-title="ARGENTINA"
-https://upload.wikimedia.org/wikipedia/commons/3/36/A24-logo.svg"
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="ARGENTINA",A24
-http://45.5.151.62:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png" group-title="ARGENTINA", A24
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "RfdarPBlk8m2k/5CfGfluA","kid": "OxsCfdARryD9mVbBbcCE+w"}],"type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
@@ -60,21 +68,24 @@ http://45.5.151.62:8000/play/a002/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="ARGENTINA",CANAL 26
-http://45.5.151.62:8000/play/a004/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" group-title="ARGENTINA", Encuentro
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x9Zpdhw1FthSoO354HyRmA","kid":"rDrni+tkR4qzkLStcOPgyQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_C/Encuentro.mpd
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/686/CH_LOGO/60/40/0/0/1239356307477.png" group-title="ARGENTINA",ENCUENTRO TV
-http://181.13.252.102:8000/play/a01m/index.m3u8
+#EXTINF:-1  tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="ARGENTINA", Canal Rural
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/671/CH_LOGO/60/40/0/0/157201010711.png" group-title="ARGENTINA",CANAL RURAL
-http://181.13.252.102:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7457/CH_LOGO/60/40/0/0/96867739074646.png" tvg-id="NetTV.ar" tvg-country="AR" tvg-logo=" group-title="ARGENTINA"
-https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg"
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7457/CH_LOGO/60/40/0/0/96867739074646.png" group-title="ARGENTINA",NET TV
-https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="NETTV.ar" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" group-title="ARGENTINA", Net TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/664/CH_LOGO/60/40/0/0/162756280757.png" tvg-id="ArgentinisimaSatelital.ar" tvg-logo=" group-title="ARGENTINA"
 https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg"
@@ -84,32 +95,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyU_QZarytEVV2Zf03KmfDRZRLMND_tpnwg&s" group-title="ARGENTINA", AUNAR
 http://190.7.19.197:232/play/a08g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.amsports.com.ar/img/logo-americasports.png" group-title="ARGENTINA", AM Sports
-http://45.5.151.62:8000/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="ARGENTINA", CM
-#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
-https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
-
-#EXTINF:-1 tvg-id="68224482c5d53e1351aaf2f2" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="ARGENTINA", Canal Claro
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="ARGENTINA", SOMOS
-http://190.7.19.197:232/play/a012/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LRA338_Nacional_Cl%C3%A1sica_%282021%29.png/250px-LRA338_Nacional_Cl%C3%A1sica_%282021%29.png" group-title="ARGENTINA", RADIO CLASICA NACIONAL (SOLO AUDIO)
-https://ice3.edge-apps.net/joy-radios/clasica/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png/250px-LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png" group-title="ARGENTINA", RADIO FOLCKLORICA NACIONAL (SOLO AUDIO)
-https://ice3.edge-apps.net/joy-radios/folklorica/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="ARGENTINA", RURAL TV
-http://190.185.208.125:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="ARGENTINA", CHACRA TV
-https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cgtn-es" tvg-name="cgtn-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg" group-title="ARGENTINA" , CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?ads_amagi_channel_id=878&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=5546&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=4fb5b651-c0d1-4bc5-bc89-fd05f5716999&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -4588,6 +4573,32 @@ https://streamconex.com:19360/puan/puan.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 79 VILLA MAZA
 https://streamconex.com:19360/villamaza/villamaza.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.amsports.com.ar/img/logo-americasports.png" group-title="ARGENTINA", AM Sports
+http://45.5.151.62:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CM
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
+#EXTINF:-1 tvg-id="68224482c5d53e1351aaf2f2" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", Canal Claro
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="ARGENTINA", SOMOS
+http://190.7.19.197:232/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LRA338_Nacional_Cl%C3%A1sica_%282021%29.png/250px-LRA338_Nacional_Cl%C3%A1sica_%282021%29.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", RADIO CLASICA NACIONAL (SOLO AUDIO)
+https://ice3.edge-apps.net/joy-radios/clasica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png/250px-LRA339_Nacional_Folkl%C3%B3rica_%282021%29.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", RADIO FOLCKLORICA NACIONAL (SOLO AUDIO)
+https://ice3.edge-apps.net/joy-radios/folklorica/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", RURAL TV
+http://190.185.208.125:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CHACRA TV
+https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 
 
 # ============ COLOMBIA (13 canales) ============
