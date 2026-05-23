@@ -3385,6 +3385,12 @@ https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOYscBG6U-9Bbx3OjI3zsT5Bnn90BgWkxW8A&s" group-title="TELEVISION INTERNACIONAL",Antena 3
 http://181.78.109.48:9998/play/a00f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="TELEVISION INTERNACIONAL", RT En español
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/864/CH_LOGO/60/40/0/0/388108700780.png" group-title="TELEVISION INTERNACIONAL",BBC News
 http://181.224.255.210:8001/play/a0ra/index.m3u8
 
