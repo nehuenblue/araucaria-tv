@@ -1709,7 +1709,7 @@ http://190.60.41.107:8008/play/a0y5/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/thumbnail_1748446482151.jpg"group-title="CANALES INFANTILES",Nick Jr. Club
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg"group-title="CANALES INFANTILES",Nickelodeon Clásico
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/featuredImage_1750110889416.jpg"group-title="CANALES INFANTILES",Nickelodeon Clásico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ICarly_logo.jpg"group-title="CANALES INFANTILES",Nickelodeon iCarly
