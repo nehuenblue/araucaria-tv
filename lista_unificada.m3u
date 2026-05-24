@@ -1834,7 +1834,7 @@ http://190.60.41.107:8008/play/a0nx/index.m3u8
 # ============ CINE (90 canales) ============
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="CINE",Golden
-http://190.60.41.107:8008/play/a0ys/index.m3u8
+http://190.60.41.107:8008/play/a0jn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" group-title="CINE",Cinecanal HD
 http://45.5.151.62:8000/play/a011/index.m3u8
@@ -1843,7 +1843,7 @@ http://45.5.151.62:8000/play/a011/index.m3u8
 http://45.5.151.62:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="CINE" ,Sony Movies HD
-http://181.209.37.74:8001/play/a09j/index.m3u8
+http://181.13.252.102:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true" group-title="CINE" ,TNT HD
 http://45.5.151.62:8000/play/a015/index.m3u8
@@ -1864,7 +1864,7 @@ http://45.5.151.62:8000/play/a01j/index.m3u8
 http://45.5.151.62:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" group-title="CINE",FX HD
-http://45.238.54.67:8000/play/a04l/index.m3u8
+http://190.60.41.107:8008/play/a0io/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="CINE",AXN HD
 http://45.5.151.62:8000/play/a01o/index.m3u8
@@ -1876,10 +1876,10 @@ http://181.224.255.210:8001/play/a0lp/index.m3u8
 http://45.5.151.62:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/330px-Warner_Channel_HD.svg.png" group-title="CINE",Warner Channel HD
-http://190.185.208.125:8000/play/a05e/index.m3u8
+http://190.60.41.107:8008/play/a0il/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" group-title="CINE",Comedy Central HD
-http://190.238.43.117:8000/play/a01b/index.m3u8
+http://179.1.238.35:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="CINE",AMC HD
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
@@ -1898,7 +1898,7 @@ http://181.224.255.210:8001/play/a0nt/index.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1605.png" group-title="CINE", CINEAR
-http://190.185.208.125:8000/play/a024/index.m3u8
+https://celf.cdn.rcs.net.ar/mnp/cinear/output.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" group-title="CINE",TCM
 http://45.5.151.62:8000/play/a01b/index.m3u8
@@ -1935,42 +1935,6 @@ http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="CINE", COSMOS TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" audio-track="spa" group-title="CINE", FX
-http://45.238.54.67:8000/play/a04l/index.m3u8
-
-#EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true" audio-track="spa" group-title="CINE", Star Channel
-http://45.5.151.62:8000/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SPAC.png?raw=true" audio-track="spa" group-title="CINE", Space
-http://45.5.151.62:8000/play/a016/index.m3u8
-
-#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" audio-track="spa" group-title="CINE", Cinecanal
-http://45.5.151.62:8000/play/a011/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true" audio-track="spa" group-title="CINE", TNT
-http://45.5.151.62:8000/play/a015/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="CINE", Sony Movies
-http://181.209.37.74:8001/play/a09j/index.m3u8
-
-#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="CINE", Warner Channel
-http://190.185.208.125:8000/play/a05e/index.m3u8
-
-#EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" audio-track="spa" group-title="CINE", Sony Channel
-http://45.5.151.62:8000/play/a01m/index.m3u8
-
-#EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" audio-track="spa" group-title="CINE", Cinemax
-http://45.5.151.62:8000/play/a012/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STUN.png?raw=true" group-title="CINE" , Studio Universal
-http://45.5.151.62:8000/play/a01h/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" audio-track="spa" group-title="CINE", TNT Series
-http://45.5.151.62:8000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-id="ar#axn" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" audio-track="spa" group-title="CINE", AXN
-http://45.5.151.62:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="CINE", ID
 http://190.7.19.197:232/play/a083/index.m3u8
