@@ -1848,8 +1848,7 @@ http://45.5.119.43:4000/play/a0i4/index.m3u8
 http://181.78.85.59:2500/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true" audio-track="spa" group-title="PACK PREMIUM (HBO - UNIVERSAL+)", UNIVERSAL TV
-http://181.78.109.48:9998/play/a05l/index.m3u8
-
+http://190.60.41.107:8008/play/a0nx/index.m3u8
 
 # ============ CINE (90 canales) ============
 
