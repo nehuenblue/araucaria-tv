@@ -2177,28 +2177,28 @@ https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA
 #EXTINF:-1 tvg-id="cgtn-documentary" tvg-name="cgtn-documentary" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ca4d6759-647b-4519-99f6-e76de3963de5.jpeg" group-title="CULTURALES" , CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8?ads_amagi_channel_id=853&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=documentary&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=5002&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=c85c80bc-332b-45e3-8444-07c321c180e5&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CULTURALES",Dulce by elGourmet
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/thumbnail_1756446996234.jpg"group-title="CULTURALES",Dulce by elGourmet
 https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CULTURALES",Plato del Dia by elGourmet
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/featuredImage_1756396393402.jpg"group-title="CULTURALES",Plato del Dia by elGourmet
 https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CULTURALES",Pluto TV Cine Crimen
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/featuredImage.jpg"group-title="CULTURALES",TV Cine Crimen
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CULTURALES",Pluto TV Historia
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/thumbnail.jpg"group-title="CULTURALES",TV Historia
 https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CULTURALES",Pluto TV Naturaleza
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg"group-title="CULTURALES",TV Naturaleza
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CULTURALES",Pluto TV Series de Crimen
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/thumbnail.jpg"group-title="CULTURALES",TV Series de Crimen
 https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CULTURALES",Tastemade Hogar
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68b887c2e77777498226a0de/featuredImage_1759784259408.jpg"group-title="CULTURALES",Tastemade Hogar
 https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CULTURALES",Tastemade Viajes
+#EXTINF:-1 tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2021/11/travel_logo_with_Image_3-scaled.jpg"group-title="CULTURALES",Tastemade Viajes
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
 
 
