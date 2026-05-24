@@ -1706,6 +1706,21 @@ http://190.60.41.107:8008/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/816.png" group-title="CANALES INFANTILES",Nick Jr
 http://190.60.41.107:8008/play/a0y5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/thumbnail_1748446482151.jpg"group-title="CANALES INFANTILES",Nick Jr. Club
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg"group-title="CANALES INFANTILES",Nickelodeon Clásico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ICarly_logo.jpg"group-title="CANALES INFANTILES",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/983/788/png-clipart-teennick-nickelodeon-television-channel-television-show-nickcom-television-text.png"group-title="CANALES INFANTILES",Nickelodeon Teen
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yZBovNU9Q6U/maxresdefault.jpg"group-title="CANALES INFANTILES",Nickelodeon Toons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/726/CH_LOGO/60/40/0/0/43956127073681.png" group-title="CANALES INFANTILES",Tooncast 1
 http://190.60.41.107:8008/play/a0xk/index.m3u8
 
@@ -1760,30 +1775,14 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="planeta-junior-spa" tvg-name="planeta-junior-spa" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/66532545-7c48-4163-8602-4c17c8bb12ac.jpeg" group-title="CANALES INFANTILES" , La abeja Maya
 https://daiconnect.com/live/hls/tvup/rk-planetajunior/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=967&ads_content_categories=IAB1&ads_content_genre=animation%2Cchildren&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=2954&ads_rtv_content_language=es&ads_streaming_id=3f0cda9e-428d-4f7c-81c2-e46df93eb365&ads_tcs_channel_id=967&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CANALES INFANTILES",Babyfirst
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/762/268/png-clipart-babyfirsttv-television-channel-babyfirst-tv-learn-colors-abcs-rhymes-more-television-text-thumbnail.png"group-title="CANALES INFANTILES",Babyfirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CANALES INFANTILES",El Reino Infantil
+#EXTINF:-1 tvg-logo="https://mazcom.com.ar/wp-content/uploads/2021/06/ERI_LOGO_1.png"group-title="CANALES INFANTILES",El Reino Infantil
 https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CANALES INFANTILES",Los Pitufos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_Los_Pitufos.png"group-title="CANALES INFANTILES",Los Pitufos
 https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CANALES INFANTILES",Nick Jr. Club
-https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CANALES INFANTILES",Nickelodeon Clásico
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CANALES INFANTILES",Nickelodeon iCarly
-https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CANALES INFANTILES",Nickelodeon Teen
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CANALES INFANTILES",Nickelodeon Toons
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-
 
 # ============ PACK PREMIUM (HBO - UNIVERSAL+) (19 canales) ============
 
