@@ -1805,29 +1805,35 @@ https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 
 # ============ PACK PREMIUM (HBO - UNIVERSAL+) (19 canales) ============
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO HD
-http://170.78.211.115:8000/play/a0c5/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO1 HD
+http://181.78.109.48:9998/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO2 HD
+http://190.108.93.75:8001/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO3 INGLES HD
+http://190.108.93.75:8001/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-name="HBO 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO 2
-http://170.78.211.115:8000/play/a0ct/index.m3u8
+http://181.78.109.48:9998/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO Family
-http://170.78.211.115:8000/play/a0cu/index.m3u8
+http://181.78.109.48:9998/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO Plus HD
-http://170.78.211.115:8000/play/a0cv/index.m3u8
+http://181.78.109.48:9998/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO Signature
-http://170.78.211.115:8000/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO Signature INGLES
+http://181.13.252.102:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO POP
-http://181.224.255.210:8001/play/a0on/index.m3u8
+https://celf.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)", HBO Mundi
-http://170.78.211.115:8000/play/a0jj/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)", HBO Mundi INGLES
+http://181.224.255.210:8001/play/a0rf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO XTREME HD
-http://170.78.211.115:8000/play/a096/index.m3u8
+http://181.78.109.48:9998/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",UNIVERSAL CINEMA HD
 http://45.5.119.43:4000/play/a0kt/index.m3u8
