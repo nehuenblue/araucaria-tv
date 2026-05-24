@@ -2135,10 +2135,10 @@ http://190.185.208.125:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CULTURALES", Runtime Crimen
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
 
-#EXTINF:-1 tvg-id="tastemade-en-espanol-0" tvg-name="tastemade-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg" group-title="CULTURALES" , Tastemade en Español
+#EXTINF:-1 tvg-id="tastemade-en-espanol-0" tvg-name="tastemade-en-espanol-0" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/thumbnail_1759784100817.jpg" group-title="CULTURALES" , Tastemade en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 
-#EXTINF:-1 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="CULTURALES", ORBE 21
+#EXTINF:-1 tvg-logo="https://canalorbe21.com/wp-content/uploads/2024/08/Orbe21-ID-2024-logotipo-simbolo-positivo-e1725056726176.png" group-title="CULTURALES", ORBE 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="crime-rakuten-tv" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg" group-title="CULTURALES" , Crimen
