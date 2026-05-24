@@ -1915,9 +1915,6 @@ http://45.189.108.146:1935/btnscrtn/classic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="CINE", COSMOS TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="CINE", ID
-http://190.7.19.197:232/play/a083/index.m3u8
-
 #EXTINF:-1 tvg-id="AESouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" audio-track="spa" group-title="CINE", A&E
 http://45.5.151.62:8000/play/a01n/index.m3u8
 
@@ -1951,7 +1948,7 @@ https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLw8fEXc4biNvohh6RorMZZPRQOzEEgg8WyQ&s" group-title="CINE",SONY ONE BLACKLIST
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMszpbjy/crimen-de-warner.png" group-title="CINE",CRIMEN DE WARNER TV
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/962/1000/png-clipart-warner-tv-television-channel-wb-channel-warner-bros-tez-television-text.png" group-title="CINE",CRIMEN DE WARNER TV
 https://amg00136-amg00136c60-canelatv-international-6417.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-crimen-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QjNw0bH7/472581744-2382542678790292-7694170186806418893-n.png" group-title="CINE",+ TV TOTONICAPÁN
@@ -2008,40 +2005,40 @@ https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8?ads_amznbrmid=&ads
 #EXTINF:-1 tvg-id="actualidad-360" tvg-name="actualidad-360" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg" group-title="CINE" , Actualidad 360
 https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8?ads_amagi_channel_id=1031&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6987&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3dab0f78-b93e-4043-ba4e-22bd78c24af8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",Cazador de Homicidas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/thumbnail.jpg"group-title="CINE",Cazador de Homicidas
 https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",CSI: Miami
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_668674-MLA106130693030_022026-OO.jpg"group-title="CINE",CSI: Miami
 https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",Doc Martin
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/5c972d7197b52201d2d7f0bca3204e2a410578568d4fbcd04b6fbf3251071687.jpg"group-title="CINE",Doc Martin
 https://jmp2.uk/plu-67e5987eef24f48ffca08fd7.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",Los Asesinatos de Midsomer
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/914a78d128ea3a7391c8c723b45bdbfd905ccba3e64a35a6c42f865c2499c7f9.jpg"group-title="CINE",Los Asesinatos de Midsomer
 https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",NCIS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY3N2RhODItOTM3Zi00ODE4LTg3ZmQtMTc3YmQzYjliODU1XkEyXkFqcGc@._V1_QL75_UX500_CR0,14,500,281_.jpg"group-title="CINE",NCIS
 https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",Pluto TV Estilo de Vida
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/lifestyle-icon-logo-sign-symbol-260nw-2432791849.jpg"group-title="CINE",TV Estilo de Vida
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",Pluto TV Kids
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-illustration/logo-childrens-television-bright-colored-260nw-1173311566.jpg"group-title="CINE",TV Kids
 https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",Pluto TV Velocidad
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/fast-tv-logo-red-black-260nw-2766295605.jpg"group-title="CINE",TV Velocidad
 https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",Pluto TV Vida Real
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-illustration/irl-meaning-real-life-260nw-2774965455.jpg"group-title="CINE",TV Vida Real
 https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",Sony One Competencias
+#EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/61683_750.jpg"group-title="CINE",Competencias
 https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",Sony One Shark Tank México
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61b55d/imagen-de-whatsapp-2025-09-10-a-las-18.45.03_28b0974a/650_1200.jpeg"group-title="CINE",Shark Tank México
 https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="CINE",The Walking Dead by AMC
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/5c/60/f2/5c60f2d1b180675169c330a627462322.jpg"group-title="CINE",The Walking Dead by AMC
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 
 
@@ -2060,6 +2057,9 @@ http://45.5.151.62:8000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="CULTURALES",Discovery ID HD
 http://181.78.109.48:9998/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="CULTURALES",Discovery ID op2  HD
+http://190.7.19.197:232/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/680/CH_LOGO/60/40/0/0/8147709107493.png" group-title="CULTURALES",TS - Discovery Science HD
 http://190.60.41.107:8008/play/a0jj/index.m3u8
