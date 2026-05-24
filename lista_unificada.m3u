@@ -1836,37 +1836,19 @@ http://181.224.255.210:8001/play/a0rf/index.m3u8
 http://181.78.109.48:9998/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",UNIVERSAL CINEMA HD
-http://45.5.119.43:4000/play/a0kt/index.m3u8
+http://181.78.109.48:9998/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , UNIVERSAL COMEDY HD
-http://45.5.119.43:4000/play/a0i5/index.m3u8
+http://181.78.85.59:2500/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , Universal Crime
 http://45.5.119.43:4000/play/a0i4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , UNIVERSAL PREMIERE HD
-http://45.5.119.43:4000/play/a0i2/index.m3u8
+http://181.78.85.59:2500/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , Universal Reality
-http://45.5.119.43:4000/play/a0i3/index.m3u8
-
-#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" audio-track="spa" group-title="PACK PREMIUM (HBO - UNIVERSAL+)", HBO
-http://170.78.211.115:8000/play/a0c5/index.m3u8
-
-#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" audio-track="spa" group-title="PACK PREMIUM (HBO - UNIVERSAL+)", HBO Plus
-http://170.78.211.115:8000/play/a0cv/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png?raw=true" audio-track="spa" group-title="PACK PREMIUM (HBO - UNIVERSAL+)", HBO Xtreme
-http://170.78.211.115:8000/play/a096/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , Universal Cinema
-http://45.5.119.43:4000/play/a0kt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , Universal Comedy
-http://45.5.119.43:4000/play/a0i5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , Universal Premiere
-http://45.5.119.43:4000/play/a0i2/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true" audio-track="spa" group-title="CINE", Universal TV
+http://181.78.109.48:9998/play/a05l/index.m3u8
 
 
 # ============ CINE (90 canales) ============
@@ -1979,9 +1961,6 @@ http://45.238.54.67:8000/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true" audio-track="spa" group-title="CINE", Star Channel
 http://45.5.151.62:8000/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true" audio-track="spa" group-title="CINE", Universal TV
-http://45.5.151.62:8000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SPAC.png?raw=true" audio-track="spa" group-title="CINE", Space
 http://45.5.151.62:8000/play/a016/index.m3u8
