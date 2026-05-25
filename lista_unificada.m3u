@@ -2039,6 +2039,14 @@ https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/5c/60/f2/5c60f2d1b180675169c330a627462322.jpg"group-title="CINE",The Walking Dead by AMC
 https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png" group-title="CINE", Bjgtjme
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 # ============ CULTURALES (47 canales) ============
 
@@ -2737,12 +2745,83 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/115.png" group-title="MUSICA",HTV
-http://190.238.43.117:8000/play/a035/index.m3u8
+http://181.78.109.48:9998/play/a03u/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/25.png" group-title="MUSICA",MTV HD
-http://181.209.37.74:8001/play/a06r/index.m3u8
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/25.png" group-title="MUSICA",MTV 1 HD
+http://190.108.93.75:8001/play/a04z/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+#EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/25.png" audio-track="spa" group-title="MUSICA", MTV 2 
+http://190.60.41.107:8008/play/a0wy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/W96aAppRU6DJnoLVnbR7DC.jpg"group-title="MUSICA",MTV Biggest Pop
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/CatfishTheTVShow.jpg"group-title="MUSICA",MTV Catfish
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/616eF5vRwJS._UF1000,1000_QL80_.jpg"group-title="MUSICA",MTV Classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/featuredImage.jpg"group-title="MUSICA",MTV Con Mi Ex
+https://jmp2.uk/plu-638693db857364000781b471.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6851b909954170e0128bc71d/thumbnail_1750686878695.jpg"group-title="MUSICA",MTV Dating
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/featuredImage.jpg"group-title="MUSICA",MTV Drag
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/thumbnail.jpg"group-title="MUSICA",MTV Flow Latino
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/featuredImage_1764875981566.jpg"group-title="MUSICA",MTV 2
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-MTV-Logo.jpg"group-title="MUSICA",MTV Reality
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+
+#EXTINF:-1 tvg-logo="https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/10/mtv-logo.jpg"group-title="MUSICA",MTV Ridiculousness
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Mtv-rocks.jpg"group-title="MUSICA",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/TeenMomcard.jpg"group-title="MUSICA",MTV Teen Mom
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
+
+#EXTINF:-1 tvg-id="Vevo Pop" tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Pop
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Rock
+https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Country
+https://amg00056-vevotv-vevocountryau-samsungnz-kcm6r.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Hip Hop
+https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo R&B
+https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 70s
+https://amg00056-vevotv-vevo70saunz-samsungnz-lmeak.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 00s
+https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7277/CH_LOGO/60/40/0/0/45226684073439.png" group-title="MUSICA" ,ALLEGRO
 http://181.13.252.102:8000/play/a053/index.m3u8
@@ -2752,6 +2831,9 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="MUSICA", MUSIC TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/featuredImage.jpg"group-title="MUSICA",Paisajes por Stingray
+https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="MUSICA", LA 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?uid=7G05Do7ndxTh4u1jN2UyEXCbSCrM9JuK&sid=3lfM8IjM9DCSZZHltclcB2zl5Hm5dsC9&pid=TCiiNMZDgBJhxkGOSSUFRvqAHdITBgMl&pid_dvr=13lVoWZoqlJzCHd3YL5Iw5dtPquYyrSI&an=screen&at=web-app&av=v6.0.234&ref=https%3A%2F%2Fla100.cienradios.com%2F&res=713x401&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%2268b74fd1d6512526f1f7c75a%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TCiiNMZDgBJhxkGOSSUFRvqAHdITBgMl%22%2Csu
@@ -2763,13 +2845,8 @@ https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/250px-Aspen102.jpg" group-title="MUSICA", ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billboard_logo.svg/1200px-Billboard_logo.svg.png" group-title="MUSICA", BILLBOARD TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Billboard-logo-magazine.jpg" group-title="MUSICA", BILLBOARD TV
 https://cdn.pontiscloud.com/output/SMT1/BLBD/output.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-#EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/25.png" audio-track="spa" group-title="MUSICA", MTV
-http://181.209.37.74:8001/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/j2gXtBsdNkaCDq-aVGn8IG5tdaj7M4Lz2PpXwKTcB98oH9AAaT6DRakwNRDydHhe9TM" group-title="MUSICA", CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
@@ -2777,19 +2854,10 @@ https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ=w240-h480" group-title="MUSICA", CONECTA TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700003T8_20220914T041131.png" group-title="MUSICA", Bjgtjme
-https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="MUSICA", MY TIME MOVIES 1
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="MUSICA", MY TIME MOVIES 2
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7e/c1/b8/7ec1b88db8493f5426d662878c90025f.jpg" group-title="MUSICA", ACTIVA TV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="MUSICA", Ocko Star
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Ocko-black_.jpg" group-title="MUSICA", Ocko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1145634416519262208/EmMhKmUz_400x400.png" group-title="MUSICA", KRONEHITS
@@ -2876,11 +2944,6 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vmlatinocr/picture?width=200&height=200" group-title="MUSICA" tvg-name="VM Latino Costa Rica",VM Latino Costa Rica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1966112431907688448/baEVDeYo_200x200.jpg" group-title="MUSICA" tvg-name="Venus Media Paraguay",Venus Media Paraguay
-https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200" group-title="MUSICA" tvg-name="La Mega Mundial USA",La Mega Mundial USA
-https://server40.servistreaming.com:3477/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/30atv/picture?width=200&height=200" group-title="MUSICA" tvg-name="30A Music USA",30A Music USA EN
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
@@ -2902,36 +2965,6 @@ https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcpCv-iReWk_9o5mVvBKCeGADawRNBZKhTw&usqp=CAU" group-title="MUSICA", Energía TV
 https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vevo Pop" tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Pop
-https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Rock
-https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Country
-https://amg00056-vevotv-vevocountryau-samsungnz-kcm6r.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Latino
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo Hip Hop
-https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo R&B
-https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 70s
-https://amg00056-vevotv-vevo70saunz-samsungnz-lmeak.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 80s
-https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 90s
-https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="MUSICA",Vevo 00s
-https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Stingray 90s" tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/webapp/master.m3u8
@@ -2999,9 +3032,6 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/webapp/master.m3u8
 #EXTINF:-1 tvg-logo="https://members.cimamusic.ca/uploads/news/news_img_17802.t1584972687.png" group-title="MUSICA",Stingray Hip Hop
 https://lotus.stingray.com/manifest/ose-133ads-montreal/webapp/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVh72TS4d6qPmdLqYtvS1l-kE9TPILSDU7BdkuwmAiJvYJ9qJ6wLty6zGxWfoWOsLzQh7NIP9fInUOFzE4bzGMXzw2jp3MTdoK38d_PtVdd6D1C3LdawV0mCDlLy-zbGjbfxdgHW24fbLN-QEYspo3WjfaM2zuVnEKyQ4cZ5CqmQZ1jX1F8qKiMh7bqAI/s500/218872234_108358731528076_5679093237766501550_n-removebg-preview.png" group-title="MUSICA", SION TV Internacional
-https://stmvideo1.livecastv.com/tvsion/tvsion/index.m3u8
-
 #EXTINF:-1 tvg-id="metal-rocks" tvg-name="metal-rocks" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg" group-title="MUSICA" , Metal.Rocks
 https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8?ads_amagi_channel_id=1063&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=7194&ads_rtv_content_language=&ads_rtvid=271859&ads_streaming_id=2eadb87e-2b94-40f9-b7c0-64e05389d329&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
@@ -3038,55 +3068,16 @@ https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 #EXTINF:-1 tvg-id="that-s-90s00s" tvg-name="that-s-90s00s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/4f51ac5c-a9ee-43ef-b44e-4eba377df3b2.jpeg" group-title="MUSICA" , That's 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8?ads_amagi_channel_id=1033&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6994&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=81cefd32-96f6-4ed7-ac08-260e752f3e0a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",Concert Channel
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg"group-title="MUSICA",Concert Channel
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",Conciertos por Stingray
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/featuredImage.jpg"group-title="MUSICA",Conciertos por Stingray
 https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",Karaoke por Stingray
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/featuredImage.jpg"group-title="MUSICA",Karaoke por Stingray
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Biggest Pop
-https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Catfish
-https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Classic
-https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Con Mi Ex
-https://jmp2.uk/plu-638693db857364000781b471.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Dating
-https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Drag
-https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Flow Latino
-https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Pluto TV
-https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Reality
-https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Ridiculousness
-https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Rocks
-https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",MTV Teen Mom
-https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",Paisajes por Stingray
-https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="MUSICA",Zona Investigación TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/thumbnail_1754404417227.jpg"group-title="MUSICA",Zona Investigación TV
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 
 
