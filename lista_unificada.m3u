@@ -40,6 +40,9 @@ http://45.5.151.62:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="ARGENTINA" ch-number="28" type="channel",Cronica
 http://45.5.151.62:8000/play/a003/index.m3u8
 
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="ARGENTINA", America
+http://45.5.151.62:8000/play/a02t/index.m3u8
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" group-title="ARGENTINA", Encuentro
 http://45.5.151.62:8000/play/a021/index.m3u8
@@ -2238,7 +2241,7 @@ http://181.224.255.210:8001/play/a0q8/index.m3u8
 http://45.5.151.62:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" group-title="NOVELAS Y VARIEDADES",Metro
-http://190.185.208.125:8000/play/a02g/index.m3u8
+http://181.13.252.102:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png" group-title="NOVELAS Y VARIEDADES",Pasiones HD
 http://190.60.41.107:8008/play/a0lu/index.m3u8
@@ -2273,68 +2276,13 @@ http://190.60.41.107:8008/play/a0yx/index.m3u8
 #EXTINF:-1 tvg-logo="https://gorricho.com.ar/wp-content/uploads/2022/06/22JUN_07_logoAntes-1.jpg" group-title="NOVELAS Y VARIEDADES", TEC TV
 https://celf.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="NOVELAS Y VARIEDADES", America
-http://45.5.151.62:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NOVELAS Y VARIEDADES" , CANAL DE LA CIUDAD
-http://190.185.208.125:8000/play/a06e/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wt94ulT522DHedSNj6m-PCw3tWpBMN7LF0VhIslu4x1-udZ9CtMUrHpFQZQ-U97HPIY=w240-h480" group-title="NOVELAS Y VARIEDADES", UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="NOVELAS Y VARIEDADES" , Quiero Música
-http://190.185.208.125:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="NOVELAS Y VARIEDADES", CIUDAD MAGAZINE
 http://45.5.151.62:8000/play/a01d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS10.png" group-title="NOVELAS Y VARIEDADES", DEL PLATA
-https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLt6hRUX4fw0YfUUdHKjBz_moAzzwRHre_RJhF4HFyqsEKDD9ppxuRNkbK1m02rTWQRqPaZkLq7GoBZSylGJmIwDSvNaQhXntbhrbxK7uy9PeiA5ujNFllB1zrx6CSLXUywsjpm7hMgTSIvB2LMMeqx2Ytb3KV_Nqxm_v9aawEU3FMxuyCBC-Gpri/s392/eldestape-sinfino.png" group-title="NOVELAS Y VARIEDADES", El Destape TV
-http://190.7.19.197:232/play/a00r/index.m3u8
-
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOVELAS Y VARIEDADES", France 24 ESPAÑOL
-http://181.78.84.78:8910/play/a0ey/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_-512x512.png" group-title="NOVELAS Y VARIEDADES", DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1566826453190205442/EWGUZmdC_400x400.jpg" group-title="NOVELAS Y VARIEDADES", 24 HORAS ESPAÑA
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES", TV Perú Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="NOVELAS Y VARIEDADES", CGTN ESPAÑOL
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES" , Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES" , Ukraine 24 Ucrania
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1512_Palestine_TV.png" group-title="NOVELAS Y VARIEDADES", Palestine TV
-https://pbc.furrera.ps/palestinehd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1f17cQPet_8hGplOl1BoFAr40VKjJ-vgiw&s" group-title="NOVELAS Y VARIEDADES", CABLENOTICIAS COLOMBIA
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="NOVELAS Y VARIEDADES" , Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES" , ABC News Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
-
-#EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="NOVELAS Y VARIEDADES" tvg-name="Bloomberg Europe",Bloomberg Europe
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-
-#EXTINF:-1 tvg-id="azteca-uno-1-hora" tvg-name="azteca-uno-1-hora" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/aztecauno_c_1920x1080.png" group-title="NOVELAS Y VARIEDADES" , AZTECA UNO -1 hora
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
-
-#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/31/ESBC1700002IM_20220511T011722.png" group-title="NOVELAS Y VARIEDADES", Televisión Consciente
-https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="NOVELAS Y VARIEDADES",Pluto TV A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
@@ -3279,7 +3227,7 @@ https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOYscBG6U-9Bbx3OjI3zsT5Bnn90BgWkxW8A&s" group-title="TELEVISION INTERNACIONAL",Antena 3
 http://181.78.109.48:9998/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="TELEVISION INTERNACIONAL", RT En español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/b/b9/Rt_tv_logo.jpg" group-title="TELEVISION INTERNACIONAL", RT En español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/864/CH_LOGO/60/40/0/0/388108700780.png" group-title="TELEVISION INTERNACIONAL",BBC News
@@ -3293,6 +3241,9 @@ http://181.224.255.210:8001/play/a0px/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL",DW
 http://181.224.255.210:8001/play/a0rj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_-512x512.png" group-title="TELEVISION INTERNACIONAL", DW 2 ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3362,6 +3313,40 @@ https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="TELEVISION INTERNACIONAL",Canal 6 CdMX
 https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1566826453190205442/EWGUZmdC_400x400.jpg" group-title="TELEVISION INTERNACIONAL", 24 HORAS ESPAÑA
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL", TV Perú Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1328910145783414785/MKeuNn8V_400x400.jpg" group-title="TELEVISION INTERNACIONAL", CGTN ESPAÑOL
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL" , Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL" , Ukraine 24 Ucrania
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1512_Palestine_TV.png" group-title="TELEVISION INTERNACIONAL", Palestine TV
+https://pbc.furrera.ps/palestinehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1f17cQPet_8hGplOl1BoFAr40VKjJ-vgiw&s" group-title="TELEVISION INTERNACIONAL", CABLENOTICIAS COLOMBIA
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="TELEVISION INTERNACIONAL" , Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL" , ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+
+#EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg" group-title="TELEVISION INTERNACIONAL" tvg-name="Bloomberg Europe",Bloomberg Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-id="azteca-uno-1-hora" tvg-name="azteca-uno-1-hora" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/aztecauno_c_1920x1080.png" group-title="TELEVISION INTERNACIONAL" , AZTECA UNO -1 hora
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+
 
 
 # ============ RADIOS - CORDOBA (22 canales) ============
@@ -3743,6 +3728,12 @@ https://stream.arcast.ar/radiovalleviejo/ngrp:radiovalleviejo_all/chunklist_w101
 
 
 # ============ RADIOS - OTRAS (72 canales) ============
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLt6hRUX4fw0YfUUdHKjBz_moAzzwRHre_RJhF4HFyqsEKDD9ppxuRNkbK1m02rTWQRqPaZkLq7GoBZSylGJmIwDSvNaQhXntbhrbxK7uy9PeiA5ujNFllB1zrx6CSLXUywsjpm7hMgTSIvB2LMMeqx2Ytb3KV_Nqxm_v9aawEU3FMxuyCBC-Gpri/s392/eldestape-sinfino.png" group-title="RADIOS - OTRAS", El Destape TV
+http://190.7.19.197:232/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-68jlovj3s08/W8_GysgDNSI/AAAAAAAAG0Q/tXkKeUv4Pu4d5C2XtmCX_18oSfAJSAylQCLcBGAs/s1600/pop-radio-rosario-96-1.png" group-title="RADIOS - OTRAS", ROSARIO POP 96.1
+https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2021/01/logo_jai_celeste-1.png" group-title="RADIOS - OTRAS", 96.3 RADIO JAI
 https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
