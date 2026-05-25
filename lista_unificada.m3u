@@ -3873,11 +3873,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPS0RiY8Zxf1hccNQprxg0rTY4ZGmyD2-KhQ&s" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Los Simpson 2
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 
-#EXTINF:-1 tvg-id="307837" tvg-name="Los Simpson 2" tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Los Simpson 3
-https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Los Simpson 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Los Simpson 3
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Los Simpson 4
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/9/9d/South_Park_Logo_by_Sonic_Gal007.png/revision/latest?cb=20120623192851&path-prefix=es"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
@@ -3939,9 +3940,6 @@ https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 
 #EXTINF:-1 tvg-id="307756" tvg-name="Moni TV" tvg-logo="https://i.postimg.cc/xdVWfSzz/dad53a17aceb11d80b7ec90ec2398f2f.png"  group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Moni TV
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", LOS SIMPSONS
-http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", BOX KIDS TV
 https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
