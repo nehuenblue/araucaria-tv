@@ -4120,10 +4120,10 @@ https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e3/Rugrats_%28Logotipo%29.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Tokusato
+#EXTINF:-1 tvg-logo="hhttps://images.pluto.tv/channels/5ff608e60e2996000768c366/featuredImage.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Tokusato
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Yu-Gi-Oh
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/yugiohenespanol/images/f/f0/Yu-Gi-Oh%21_JCC.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Yu-Gi-Oh
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8?ads_amagi_channel_id=1007&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=action%2Canimation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=6780&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=6186d974-3ed0-46fc-a6b2-c2990f02872f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 
@@ -4323,7 +4323,7 @@ https://encoder-1b.montevision.com.ar/hls/monte.m3u8
 #EXTINF:-1 tvg-logo="https://eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", MONTE HERMOSO 2
 https://encoder-1b.montevision.com.ar/hls/monte2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/11/logoweb2022.jpg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", SOLIDARIA TV
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logotipo-caridad-cuidado-amor-familiar_579179-2518.jpg" group-title="SERIES Y CANALES DE PRUEBA", SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 
