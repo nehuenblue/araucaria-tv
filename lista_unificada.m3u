@@ -3882,6 +3882,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/9/9d/South_Park_Logo_by_Sonic_Gal007.png/revision/latest?cb=20120623192851&path-prefix=es"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/9/9d/South_Park_Logo_by_Sonic_Gal007.png/revision/latest?cb=20120623192851&path-prefix=es"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park - Coleccion Cartman
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
 
@@ -4118,18 +4119,6 @@ https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e3/Rugrats_%28Logotipo%29.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park: Colección Cartman
-https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park: Colección Kenny
-https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park: Colección Kyle
-https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park: Colección Stan
-https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Tokusato
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
