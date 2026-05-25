@@ -1622,31 +1622,31 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="tennis-plus" tvg-name="tennis-plus" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0922c6a-1c35-4fe3-a0cd-688efa948a68.jpeg" group-title="DEPORTIVOS" , Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8?ads_amagi_channel_id=985&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=7182&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=0d761218-351f-4cf4-bb11-59ab77cca3da&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="DEPORTIVOS",Adrenalina Pura TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/thumbnail.jpg"group-title="DEPORTIVOS",Adrenalina Pura TV
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="DEPORTIVOS",Azteca Deportes Network
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgxNzM1ZDAtNjA5NS00NGZhLWEwYzEtMGExM2U2M2IxNmRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="DEPORTIVOS",Deportes Network
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="DEPORTIVOS",Azteca Deportes Premium
+#EXTINF:-1 tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2024/06/azteca-deportes.jpg"group-title="DEPORTIVOS",Deportes Premium
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="DEPORTIVOS",Claro Sports Mexico
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png"group-title="DEPORTIVOS",Claro Sports Mexico
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="DEPORTIVOS",ITV Deportes
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/thumbnail.jpg"group-title="DEPORTIVOS",ITV Deportes
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="DEPORTIVOS",Lucha Libre AAA
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/edcb9e27741951.559c62ecf18b2.jpg"group-title="DEPORTIVOS",Lucha Libre AAA
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="DEPORTIVOS",Motorvision TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Motorvision%2B_Logo_2023.svg/330px-Motorvision%2B_Logo_2023.svg.png"group-title="DEPORTIVOS",Motorvision TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020&avod=1&content_dist_name=freelivesports&content_channel=Motorvision&channel_name=Motorvision&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="DEPORTIVOS",Realmadrid TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/960px-Realmadrid_Television_Logo.svg.png"group-title="DEPORTIVOS",Realmadrid TV
 https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="DEPORTIVOS",UFC
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-deportivo-de-ufc-el-m%C3%A1ximo-campeonato-lucha-es-una-empresa-norteamericana-promoci%C3%B3n-artes-marciales-mixtas-con-sede-en-209444378.jpg"group-title="DEPORTIVOS",UFC
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
 
@@ -2079,7 +2079,7 @@ http://45.5.151.62:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true" audio-track="spa" group-title="CULTURALES", Discovery Turbo
 http://190.185.208.125:8000/play/a01w/index.m3u8
 
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true" group-title="DEPORTIVOS", GARAGE TV
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true" group-title="CULTURALES", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DWRLD.png?raw=true" group-title="CULTURALES",Discovery World HD
