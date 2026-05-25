@@ -1694,6 +1694,10 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/featuredImage_1750110889416.jpg"group-title="CANALES INFANTILES",Nickelodeon Clásico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1492.png" group-title="CANALES INFANTILES", PAKA PAKA
+http://181.13.252.102:8000/play/a01n/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ICarly_logo.jpg"group-title="CANALES INFANTILES",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 
@@ -2064,7 +2068,7 @@ http://181.78.109.48:9998/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="CULTURALES",Discovery ID op2  HD
 http://190.7.19.197:232/play/a083/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/680/CH_LOGO/60/40/0/0/8147709107493.png" group-title="CULTURALES",TS - Discovery Science HD
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/680/CH_LOGO/60/40/0/0/8147709107493.png" group-title="CULTURALES",Discovery Science HD
 http://190.60.41.107:8008/play/a0jj/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2085,27 +2089,23 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DWRLD.png?raw=true" group-title="CULTURALES",Discovery World HD
 http://190.60.41.107:8008/play/a0ii/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" group-title="CULTURALES",El Gourmet HD
-http://45.5.151.62:8000/play/a022/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="CULTURALES",HGTV
 http://181.209.37.74:8001/play/a0e8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" group-title="CULTURALES",History Channel HD
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" group-title="CULTURALES",History Channe l HD
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" group-title="CULTURALES",TS - History 2 HD
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" group-title="CULTURALES",History Channel 2 HD
 http://190.60.41.107:8008/play/a0jv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NTGEO.png?raw=true" group-title="CULTURALES",Nat Geo HD
 http://190.60.41.107:8008/play/a0gn/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" group-title="CULTURALES",El Gourmet HD
+http://45.5.151.62:8000/play/a022/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1026/CH_LOGO/60/40/0/0/8597848007771.png" group-title="CULTURALES",Sun Channel HD
 http://181.224.255.210:8001/play/a0nx/index.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1492.png" group-title="CULTURALES", PAKA PAKA
-http://45.5.151.62:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="CULTURALES", El Gourmet
 http://45.5.151.62:8000/play/a022/index.m3u8
@@ -2114,26 +2114,6 @@ http://45.5.151.62:8000/play/a022/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/164.png" audio-track="spa" group-title="CULTURALES", National Geographic
 http://45.5.151.62:8000/play/a025/index.m3u8
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/17.png" audio-track="spa" group-title="CULTURALES", Discovery Channel
-http://45.5.151.62:8000/play/a027/index.m3u8
-
-#EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HSTRY.png?raw=true" audio-track="spa" group-title="CULTURALES", History
-http://190.238.43.117:8000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HST2.png?raw=true" audio-track="spa" group-title="CULTURALES", History 2
-http://38.49.128.38:8000/play/a0dj/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSH&H.png?raw=true" audio-track="spa" group-title="CULTURALES", Discovery H&H
-http://45.5.151.62:8000/play/a02b/index.m3u8
-
-#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://static.flow.com.ar/images/643/CH_LOGO/1920/1080/0/0/72827036071623.png" audio-track="spa" group-title="CULTURALES", Animal Planet
-http://190.60.41.107:8008/play/a0qr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCNC.png?raw=true" group-title="CULTURALES" , Discovery Science
-http://190.185.208.125:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CULTURALES", Runtime Crimen
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
