@@ -3867,10 +3867,16 @@ https://videostream.shockmedia.com.ar:19360/lu22radiotandil/lu22radiotandil.m3u8
 
 # ============ SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7 (91 canales) ============
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Los Simpson
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Los Simpson 1
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPS0RiY8Zxf1hccNQprxg0rTY4ZGmyD2-KhQ&s" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Los Simpson Latino
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPS0RiY8Zxf1hccNQprxg0rTY4ZGmyD2-KhQ&s" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Los Simpson 2
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+
+#EXTINF:-1 tvg-id="307837" tvg-name="Los Simpson 2" tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Los Simpson 3
+https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Los Simpson 4
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/9/9d/South_Park_Logo_by_Sonic_Gal007.png/revision/latest?cb=20120623192851&path-prefix=es"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park
@@ -3930,9 +3936,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Pluto TV Anime
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/11/logoweb2022.jpg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", SOLIDARIA TV
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-
 #EXTINF:-1 tvg-id="307756" tvg-name="Moni TV" tvg-logo="https://i.postimg.cc/xdVWfSzz/dad53a17aceb11d80b7ec90ec2398f2f.png"  group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Moni TV
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 
@@ -3954,7 +3957,7 @@ http://190.238.43.117:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfRbifiUexivtDzxsqtsC61C7uhIlhpjvU7m5P9bS3AG_zGAl39526E-wB6Ykpx48SjHl89CEGMEPwrxJpGUXeZ0A7L_Mhtzsm-XoMMgSl1P-Yr1tM_C6nn9MD2194Ec3mfB_Wx_VmiSXU4fqmMb43meSb4iO59L9S1tkwzC6Psj1HJdi2avW1pf9s458/s200/Logo-letras-3d.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-id="vive-kanal-d-drama" tvg-name="vive-kanal-d-drama" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x108033.jpg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7" , Vive Kanal D Drama
+#EXTINF:-1 tvg-id="vive-kanal-d-drama" tvg-name="vive-kanal-d-drama" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/featuredImage.jpg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7" , Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", SOLIDARIA TV INTERNACIONAL
@@ -4032,12 +4035,6 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?Playlis
 #EXTINF:-1 tvg-name="LOCOMOTION 24/7" tvg-id="LOCOMOTION24/7" tvg-logo="https://i.ibb.co/xQBQyJy/Logo-Locomotion-1.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Locomotion 24/7 HD
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8
 
-#EXTINF:-1 tvg-id="307837" tvg-name="Los Simpson 2" tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Los Simpson 2
-https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Los Simpson lat
-https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
-
 #EXTINF:-1 tvg-id="317619" tvg-name="Mr Bean toons" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png?fbclid=IwY2xjawJAUndleHRuA2FlbQIxMAABHQ2hPVDDbdWeCepMyH67zJvvhT4_WcLk6v1fnsnNatzTxRVIl_0AeZUejg_aem_xNXoHNyrVHCE4wbtqwdf8A" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Mr Bean toons
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?PlaylistM3UCL
 
@@ -4074,52 +4071,52 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
 #EXTINF:-1 tvg-id="319359" tvg-name="Zyoon Tv" tvg-logo="https://i.postimg.cc/Twnf4THj/zyoon.jpg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Zyoon Tv
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Avatar: La Leyenda de Aang
+#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_latam/cover/a/avatar-the/avatar-the-legend-of-aang_n73e.600.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/f4/fd/7d/f4fd7d4c84f05eaa6401cc323e1aba8a.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Bob Esponja Pantalones Cuadrados
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgzYzNhOGUtMWI1Mi00YjJkLWI2NGItOWFlNDE4ZjE0NGExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Boruto: Naruto Next Generations
 https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Captain Tsubasa
+#EXTINF:-1 tvg-logo="https://www.1001hobbies.es/c/56275-large_banner/capitain-tsubasa.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Captain Tsubasa
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Comedy Central South Park
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/245f5688953583.5de65df060c25.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Comedy Central South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Death Note
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Death_Note.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Death Note
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Hey Arnold!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HeyArnold_neuer_schriftzug.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Hunter x Hunter
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/5a/1f/52/5a1f52993ee13f9168b45d66bac3bf66.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Hunter x Hunter
 https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Inuyasha
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WstzaUwNh78/maxresdefault.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Inuyasha
 https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",JoJo’s Bizarre Adventure
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/12/Jojos-Bizarre-Adventure-Logo-2012-2013.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",JoJo’s Bizarre Adventure
 https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Kenan y Kel
+#EXTINF:-1 tvg-logo="https://i.fonts2u.com/ke/banner_kenan-kel.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Kenan y Kel
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",La Familia del Barrio
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/featuredImage.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",La Familia del Barrio
 https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Las Tortugas Ninja
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/ninja-turtle-cartoon-logo-yy48rt5j7sq4810p.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Pokémon
+#EXTINF:-1 tvg-logo="https://fbi.cults3d.com/uploaders/25037843/illustration-file/23ec0272-70df-42ff-b90e-c953b443a79e/Pokemon-Logo.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Pokémon
 https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Popeye
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/hd/happy-popeye-logo-l6hjba6k8ugba5lg.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Popeye
 https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Rugrats
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e3/Rugrats_%28Logotipo%29.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Rugrats
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park: Colección Cartman
@@ -4336,6 +4333,9 @@ https://encoder-1b.montevision.com.ar/hls/monte.m3u8
 
 #EXTINF:-1 tvg-logo="https://eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", MONTE HERMOSO 2
 https://encoder-1b.montevision.com.ar/hls/monte2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/11/logoweb2022.jpg" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", SOLIDARIA TV
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 
 # ============ COLOMBIA (13 canales) ============
