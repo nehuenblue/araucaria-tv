@@ -2264,7 +2264,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 http://45.5.151.62:8000/play/a01d/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="NOVELAS Y VARIEDADES",Pluto TV A La Mexicana
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_Mexicana_de_Aviacion.jpg/1280px-Logo_Mexicana_de_Aviacion.jpg"group-title="NOVELAS Y VARIEDADES",A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 
 #EXTINF:-1 tvg-id="wedotv-amor" tvg-name="wedotv-amor" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f2eabb04-9a91-4acb-97ff-8eab64c09446.jpeg" group-title="NOVELAS Y VARIEDADES" , wedotv Amor
@@ -2327,19 +2327,19 @@ https://atresmedia-ceries-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/ZonaInvestigacion_c.png" group-title="NOVELAS Y VARIEDADES",Zona Investiacion A3
 https://atresmedia-zitv-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pelimex" tvg-name="pelimex" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg" group-title="NOVELAS Y VARIEDADES" , Pelimex
+#EXTINF:-1 tvg-id="pelimex" tvg-name="pelimex" tvg-logo="https://pictures.abebooks.com/inventory/1335941550.jpg" group-title="NOVELAS Y VARIEDADES" , Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
 
-#EXTINF:-1 tvg-id="azteca-internacional" tvg-name="azteca-internacional" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/64NBu8-mrE2KlvXq282kDdxm8GStzrb7lcAS7HuUlr0.jpg" group-title="NOVELAS Y VARIEDADES" , Azteca Internacional
+#EXTINF:-1 tvg-id="azteca-internacional" tvg-name="azteca-internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png" group-title="NOVELAS Y VARIEDADES" , Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 
-#EXTINF:-1 tvg-id="corazon" tvg-name="corazon" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/corazon_c_1920x1080.png" group-title="NOVELAS Y VARIEDADES" , Corazón
+#EXTINF:-1 tvg-id="corazon" tvg-name="corazon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="NOVELAS Y VARIEDADES" , Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 
-#EXTINF:-1 tvg-id="clic" tvg-name="clic" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1920_x_1080_0_2.png" group-title="NOVELAS Y VARIEDADES" , Clic
+#EXTINF:-1 tvg-id="clic" tvg-name="clic" tvg-logo="https://www.shutterstock.com/image-vector/click-tv-logo-template-illustration-260nw-2151448649.jpg" group-title="NOVELAS Y VARIEDADES" , Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
-#EXTINF:-1 tvg-id="novelisima" tvg-name="novelisima" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/w1snMhKwik97IWj_ZJLGraHMgzDwxGnkmiBkywhSCrI.jpg" group-title="NOVELAS Y VARIEDADES" , Novelísima
+#EXTINF:-1 tvg-id="novelisima" tvg-name="novelisima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Novelisima_logo.png" group-title="NOVELAS Y VARIEDADES" , Novelísima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC1700004PX_20221214T044904.png" group-title="NOVELAS Y VARIEDADES", Trailers
@@ -2351,86 +2351,8 @@ https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC3900002L8_20221012T021029.png" group-title="NOVELAS Y VARIEDADES",Vivir con Gatos
 https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="NOVELAS Y VARIEDADES", 88 STEREO
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES" ,RTL Zeta Italia IT
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", AV 3 Y 104 (VISTA SUR)VILLA GESELL
-http://cam104y3.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", AV 3 Y 104 (VISTA NORTE) VILLA GESELL
-https://cam104.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", AV 3 Y 107 (VISTA NORTE) VILLA GESELL
-https://cam107norte.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", AV 3 Y 107 (VISTA SUR) VILLA GESELL
-https://cam107sur.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", 112 Y PLAYA VILLA GESELL
-https://cam112yplaya.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", ACCESO NORTE HACIA CIUDAD VILLA GESELL
-https://camarco.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", ACCESO NORTE HACIA RP11 VILLA GESELL
-https://camarco2.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", BS AS Y PLAYA VILLA GESELL
-http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", MAR DE LAS PAMPAS  VILLA GESELL
-http://camlapinocha.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", BOSQUE HISTORICO VILLA GESELL
-https://cambosque.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", FARO QUERANDI VILLA GESELL
-https://camfaro.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="NOVELAS Y VARIEDADES", MUELLE VILLA GESELL
-https://cammuelle.gesell.com.ar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="NOVELAS Y VARIEDADES", MONTE HERMOSO
-https://encoder-1b.montevision.com.ar/hls/monte.m3u8
-
-#EXTINF:-1 tvg-logo="https://eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="NOVELAS Y VARIEDADES", MONTE HERMOSO 2
-https://encoder-1b.montevision.com.ar/hls/monte2.m3u8
-
 #EXTINF:-1 tvg-id="CNNInt.TV" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="NOVELAS Y VARIEDADES" ,CNN Internacional
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-
-#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES" ,DW Alemania EN
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tagesschau/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES" ,Tagesschau24 Alemania DE
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605959306435756038/_EiuBjQ8_200x200.png" group-title="NOVELAS Y VARIEDADES",ARD Das Erste Alemania DE
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/WDR/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES",WDR Westdeutschen Alemania DE
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES" ,NDR Niedersachsen Alemania DE
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BR24/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES",BR Bayerischer Alemania DE
-https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Hessenschau/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES" ,HR Hessenschau Alemania DE
-https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/SRinfo.sr/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES",SR Saarland Alemania DE
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES",LN24 Bélgica FR
-https://live-ln24.digiteka.com/1911668011/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/trtworld/picture?width=200&height=200" group-title="NOVELAS Y VARIEDADES",TRT World Turquía EN
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="/esruntime-clasicos" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg" group-title="NOVELAS Y VARIEDADES" , Runtime Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
@@ -3317,6 +3239,36 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="TELEVISION INTERNACIONAL" , Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL" ,DW Alemania EN
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tagesschau/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL" ,Tagesschau24 Alemania DE
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605959306435756038/_EiuBjQ8_200x200.png" group-title="TELEVISION INTERNACIONAL",ARD Das Erste Alemania DE
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/WDR/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL",WDR Westdeutschen Alemania DE
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL" ,NDR Niedersachsen Alemania DE
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/BR24/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL",BR Bayerischer Alemania DE
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Hessenschau/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL" ,HR Hessenschau Alemania DE
+https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/SRinfo.sr/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL",SR Saarland Alemania DE
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL",LN24 Bélgica FR
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/trtworld/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL",TRT World Turquía EN
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL" , ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
@@ -4352,6 +4304,54 @@ http://190.185.208.125:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CHACRA TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", 88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="SERIES Y CANALES NUEVOS DE PRUEBA" ,RTL Zeta Italia IT
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", AV 3 Y 104 (VISTA SUR)VILLA GESELL
+http://cam104y3.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", AV 3 Y 104 (VISTA NORTE) VILLA GESELL
+https://cam104.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", AV 3 Y 107 (VISTA NORTE) VILLA GESELL
+https://cam107norte.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", AV 3 Y 107 (VISTA SUR) VILLA GESELL
+https://cam107sur.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", 112 Y PLAYA VILLA GESELL
+https://cam112yplaya.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", ACCESO NORTE HACIA CIUDAD VILLA GESELL
+https://camarco.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", ACCESO NORTE HACIA RP11 VILLA GESELL
+https://camarco2.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", BS AS Y PLAYA VILLA GESELL
+http://cambsasyplaya.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", MAR DE LAS PAMPAS  VILLA GESELL
+http://camlapinocha.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", BOSQUE HISTORICO VILLA GESELL
+https://cambosque.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", FARO QUERANDI VILLA GESELL
+https://camfaro.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", MUELLE VILLA GESELL
+https://cammuelle.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", MONTE HERMOSO
+https://encoder-1b.montevision.com.ar/hls/monte.m3u8
+
+#EXTINF:-1 tvg-logo="https://eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", MONTE HERMOSO 2
+https://encoder-1b.montevision.com.ar/hls/monte2.m3u8
 
 
 # ============ COLOMBIA (13 canales) ============
