@@ -4347,7 +4347,7 @@ https://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onetv.com.ar/wp-content/uploads/2024/01/29.4-transformed.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", ONE TV SAN JUAN
 https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.amsports.com.ar/img/logo-americasports.png" group-title="ARGENTINA", AM Sports
+#EXTINF:-1 tvg-logo="https://www.amsports.com.ar/img/logo-americasports.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", AM Sports
 http://45.5.151.62:8000/play/a00n/index.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
@@ -4358,7 +4358,7 @@ https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-10004
 #EXTINF:-1 tvg-id="68224482c5d53e1351aaf2f2" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", Canal Claro
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="ARGENTINA", SOMOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="SERIES Y CANALES DE PRUEBA", SOMOS
 http://190.7.19.197:232/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/LRA338_Nacional_Cl%C3%A1sica_%282021%29.png/250px-LRA338_Nacional_Cl%C3%A1sica_%282021%29.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", RADIO CLASICA NACIONAL (SOLO AUDIO)
