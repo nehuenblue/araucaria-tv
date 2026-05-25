@@ -4178,31 +4178,26 @@ https://cdn.pontiscloud.com/output/ARR/CLYFERD/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3342/CH_LOGO/800/542/0/0/41079403078757.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CELTTV Tornquist
 https://cdn.pontiscloud.com/output/SMT3/CELTTVD/output.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", Telviso TV
-https://cdn.pontiscloud.com/output/SMT2/TELD/output.mpd
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZT5_deBcKFEVXumsHy5NxJYT6K54jrA0v86bWHpQ9lw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", EPS TV BRAGADO
 https://cp.panelchs.com:1936/8146/ngrp:8146_all/playist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bragadotv.com.ar/images/custom/logo.png?_v=31" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", BRAGADO TV
 https://cp.panelchs.com:1936/8206/ngrp:8206_all/chunklist_w1270737246_b1596000.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIESTV12.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", EL SELLO TV MADARIAGA
-https://elsellotv.com.ar:8443/hls/elsello_low.m3u8
 
-#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 5 TANDIL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppTIzAwf9dU/maxresdefault.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 5 TANDIL
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICELTTV.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CELTV CANAL 2 TORNQUIST
+#EXTINF:-1 tvg-logo="https://www.celttv.com.ar/wp-content/uploads/2024/11/LOGO-CELT-SOLO-350x250.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CELTV CANAL 2 TORNQUIST
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-#EXTINF:-1 tvg-logo="https://instagram.faep6-2.fna.fbcdn.net/v/t51.82787-19/627621452_18019607750634776_8345700550336086663_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.faep6-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gEvx_XIaoUUqfseyJfUYHZejkO61cFRkqDwd8vVyBH1xLjizc5ePEjX8HrUwhZC69m4GC8yz1e2APMGkVCuSjqo&_nc_ohc=2GEdyVGYwT4Q7kNvwEsBVPQ&_nc_gid=b9pfFoCN56tCSYm8iyGzeQ&edm=AOii8G0BAAAA&ccb=7-5&oh=00_Afy0DnjokYrm-ihUntzz0EbVIeuWF8yTggBNhbikIxilDg&oe=69CF35E5&_nc_sid=f8e7cd" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 4 EL DUENDE TV OLAVARRIA
+#EXTINF:-1 tvg-logo="https://imgshock.nyc3.digitaloceanspaces.com/FB_IMG_1773723557896.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 4 EL DUENDE TV OLAVARRIA
 https://videostream.shockmedia.com.ar:19360/canal4tv/canal4tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://catamarcartv.com/wp-content/uploads/2023/02/Logo-CatamarcaRTV.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 7 CATAMARCA
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmmutquin.argentinastream.com/logos/logo.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", Municipal 96.3 FM Mutquin CATAMARCA
+#EXTINF:-1 tvg-logo="https://mutquin.com.ar/wp-content/uploads/2026/03/FB_IMG_1774274559256-392x272.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", Municipal 96.3 FM Mutquin CATAMARCA
 https://tv.streamcasthd.com:3787/live/fmmutquintvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 8 SAN JUAN
@@ -4217,13 +4212,13 @@ https://vd01.streaminghd.net.ar:3814/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/_rv20221116-01/web/assets/imgs/logos/telesol_w.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", TELESOL SAN JUAN
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cIEZjlpdE3c/maxresdefault.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", TELESOL SAN JUAN
 https://cdn1.tvlin.net/open/telesol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQjjB8h8lhzBktI4zfzWXgz1cvM0gWdxXQWxrIlBQ=s88-c-k-c0x00ffffff-no-rj" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", COSMOS TV SAN JUAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/COSMOS_logo2K24-100.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", COSMOS TV SAN JUAN
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.delsurdiario.com/_rv20241101-01/web/assets/imgs/logos/delsur.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", DEL SUR TV SAN JUAN
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/o7fVDaqFI3w/maxresdefault.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", DEL SUR TV SAN JUAN
 https://cdn1.tvlin.net/open/delsurtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AIdro_muVx0EEioF2p91zBEe1D73dhe4imf2UcdBN12KrhkuWH0=s48-c-k-c0x00ffffff-no-rj" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 34 SAN JUAN
@@ -4232,13 +4227,13 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/h/j/f/temp-fyamuijlknxszsquqljq/image-high-2mnva0.png?enable-io=true&amp;enable=upscale&amp;width=477" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", BLU HD SAN JUAN
 https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--XAMA.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", XAMA UNSJ
+#EXTINF:-1 tvg-logo="https://geset.facso.unsj.edu.ar/wp-content/uploads/2024/06/Xama.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", XAMA UNSJ
 https://srs.unsj.edu.ar/live/xama/xama.m3u8?hls_ctx=8665225t
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXhlgSw5SACbz1uBeSQbxF6SMUAjRcoHjTa2X7mv4qWAGhUXwtzP8MHwGrhEQxw3vBR8&usqp=CAU" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 40 CAUCETE
 https://canalsj.kozow.com/canal40/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", FM DEL SOL 91.9 SAN JUAN
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/055/sol-915.ba8de8e3.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", FM DEL SOL 91.9 SAN JUAN
 https://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://onetv.com.ar/wp-content/uploads/2024/01/29.4-transformed.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", ONE TV SAN JUAN
@@ -4351,7 +4346,7 @@ https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1280px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA",Senal Colombia
 http://179.1.238.35:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/960px-Teleantioquia_logo.svg.png" group-title="COLOMBIA",Teleantioquia
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uNVsp46wVP4/maxresdefault.jpg" group-title="COLOMBIA",Teleantioquia
 http://179.1.238.35:8000/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_telecaribe_El_Informativo.png" group-title="COLOMBIA",Telecaribe
