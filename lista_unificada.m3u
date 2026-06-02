@@ -1,13 +1,17 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina4.xml.gz"
 # Araucaria TV - Lista organizada por provincia
 
+
 # ============ ARGENTINA (19 canales) ============
 
 #EXTINF:-1 tvg-id="Canal 26.uy" tvg-name="Canal 26.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" group-title="ARGENTINA" ch-number="26" type="channel",Canal 26
 http://45.5.151.62:8000/play/a004/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg" group-title="ARGENTINA", AR|12
+https://netium.cdn.rcs.net.ar/mnp/ip/output.mpd
+
 #EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5N.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="ARGENTINA" ch-number="25" type="channel",C5N
-http://45.5.151.62:8000/play/a005/index.m3u8
+http://181.13.252.102:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-name="Canal 13.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="ARGENTINA" ch-number="13" type="channel",El Trece
 http://45.5.151.62:8000/play/a00e/index.m3u8
@@ -21,6 +25,7 @@ http://45.5.151.62:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 9.uy" tvg-name="Canal 9.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="ARGENTINA" ch-number="9" type="channel",El nueve
 http://45.5.151.62:8000/play/a00g/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TN" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="ARGENTINA" ch-number="31" type="channel",TN NOTICIAS
 http://45.5.151.62:8000/play/a006/index.m3u8
@@ -42,6 +47,7 @@ http://45.5.151.62:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" group-title="ARGENTINA", Encuentro
 http://45.5.151.62:8000/play/a021/index.m3u8
 
+
 #EXTINF:-1  tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="ARGENTINA", Canal Rural
 http://181.13.252.102:8000/play/a02f/index.m3u8
 
@@ -61,6 +67,7 @@ http://190.7.19.197:232/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="cgtn-es" tvg-name="cgtn-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg" group-title="ARGENTINA" , CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?ads_amagi_channel_id=878&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=5546&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=4fb5b651-c0d1-4bc5-bc89-fd05f5716999&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
+
 # ============ INTERIOR - CORDOBA (53 canales) ============
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6enG9C56qYQ3W04hvipNg9W0TqLudNVT_gjxbT_3cxs7vlYZmIewar-0j-Gp6-OSFAlaAES1KE2B1Kw9Cw50j5qknSeJRo3iv1PhSQQNQm7ZE_rwA62OU7GWEs6zGeveN9d3C4ZE-qQQ27C1V4dtaxdNqfpmknnerhpBqfJd0EkE1xeEIA3pmE2SPSVc/s200-rw/486529732_1837939487046786_5618639761700495457_n__1___1_-removebg-preview.png" group-title="INTERIOR - CORDOBA", CANAL 10 CORDOBA
@@ -68,6 +75,9 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="INTERIOR - CORDOBA", CADENA 3
 https://cdn.pontiscloud.com/output/ET-01/Cadena3/master.m3u8
+
+#EXTINF:-1 group-title="INTERIOR - CORDOBA", CANAL 13 RIO CUARTO
+https://netium.cdn.rcs.net.ar/mnp/imperio/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="INTERIOR - CORDOBA", CIUDAD MAGICA TV
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
@@ -84,11 +94,29 @@ https://cdn.pontiscloud.com/output/NDS/CEOSCAH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://coonet.com.ar/public/assets/images/coonet-logo-icono.png" group-title="INTERIOR - CORDOBA", CANAL COONET TV
 https://coonet.online/hls/canal1.m3u8
 
+#EXTINF:-1 tvg-logo="https://cooperativarioprimero.com.ar/wp-content/uploads/2023/08/Logo-70-Anos-COOP-Sin-Estrellas-750x817.png" group-title="INTERIOR - CORDOBA" , MULTIMEDIOS RIO PRIMERO
+https://cdn.pontiscloud.com/output/STAROSA/RIO1TVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.coelealcira.com.ar/NewSite/wp-content/uploads/2022/03/NMC-ALPHA-1024x467.png" group-title="INTERIOR - CORDOBA", NEXO SMC MULTIMEDIOS
+https://cdn.pontiscloud.com/output/ARR/Canal5GIGD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/800/542/0/0/38808379077146.png" group-title="INTERIOR - CORDOBA" , Canal Cooperativo Alicia
+https://cdn.pontiscloud.com/output/LVR/CCAD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8Hd0MQh/ceosacaaa.png" group-title="INTERIOR - CORDOBA" , CEOSCA-Camilo Aldao
 https://cdn.pontiscloud.com/output/NDS/CEOSCAH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2523/CH_LOGO/800/542/0/0/45821431071947.png" group-title="INTERIOR - CORDOBA" , C20 Villa María
+https://cdn.pontiscloud.com/output/SMT5/C20D/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3042/CH_LOGO/800/542/0/0/50103492078472.png" group-title="INTERIOR - CORDOBA" , STV 2 Canal - Las Varillas
+https://cdn.pontiscloud.com/output/LVR/STV2D/output.mpd
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lLGVyAAMQewxgpEpb0ec2qlOfPnapGz8Ibr_epK1SI9A=s160-c-k-c0x00ffffff-no-rj" group-title="INTERIOR - CORDOBA", CANAL COOP JUSTINIANO POSSE
 https://cdn.pontiscloud.com/output/NDS/tvcoopjpH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://coopluzelena.com.ar/NewSite/wp-content/uploads/elementor/thumbs/LOGO-WEB_Mesa-de-trabajo-1-pf76e4hjcug7rwmhy1zmw6xqk5jcea98fnsir5x9q0.png" group-title="INTERIOR - CORDOBA" , Canal 2 Cooperativa de Elena
+https://cdn.pontiscloud.com/output/SMT7/C2CED/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tributv.com.ar/wp-content/uploads/2020/11/logo-tributv.png" group-title="INTERIOR - CORDOBA", TRIBU TV LAS VARILLAS CORDOBA
 https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
@@ -144,6 +172,9 @@ https://cdn.pontiscloud.com/output/STAROSA/COVISARH/playlist.m3u8
 #EXTINF:-1 group-title="INTERIOR - CORDOBA", TEMPLE TV
 https://cdn.pontiscloud.com/output/STAROSA/TEMPLETVH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/800/542/0/0/88623159076702.png" group-title="INTERIOR - CORDOBA", CETV Canal Deheza
+https://cdn.pontiscloud.com/output/ARR/DehezaD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/800/542/0/0/30214768077125.png" group-title="INTERIOR - CORDOBA", Río Primero TV
 https://cdn.pontiscloud.com/output/STAROSA/RIO1TVH/playlist.m3u8
 
@@ -153,8 +184,29 @@ https://cdn.pontiscloud.com/output/NDS/vivenciasH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2543/CH_LOGO/800/542/0/0/49748039075506.png" group-title="INTERIOR - CORDOBA", Unidos Tv
 https://cdn.pontiscloud.com/output/NDS/unidostvH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3482/CH_LOGO/800/542/0/0/66473712078884.png" group-title="INTERIOR - CORDOBA", TV Coop Hernando
+https://cdn.pontiscloud.com/output/ARR2/HERD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3882/CH_LOGO/800/542/0/0/54537430079017.png" group-title="INTERIOR - CORDOBA", El Sauce TV Canal Local VGB
+https://cdn.pontiscloud.com/output/ARR3/ElSauceTVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2941/CH_LOGO/800/542/0/0/21304890078316.png" group-title="INTERIOR - CORDOBA", Canal 3 Arroyito
+https://cdn.pontiscloud.com/output/ARR3/C3AD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2801/CH_LOGO/800/542/0/0/56157196078230.png" group-title="INTERIOR - CORDOBA", RioTel Río Tercero
+https://cdn.pontiscloud.com/output/SMT3/RTD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2536/CH_LOGO/800/542/0/0/98726444077724.png" group-title="INTERIOR - CORDOBA", Canal 2 Almafuerte
+https://cdn.pontiscloud.com/output/ARR/ALMD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2538/CH_LOGO/800/542/0/0/35734658076751.png" group-title="INTERIOR - CORDOBA", Cegro General Roca
+https://cdn.pontiscloud.com/output/SMT3/GRD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/800/542/0/0/29838770078011.png" group-title="INTERIOR - CORDOBA", Canal 11 Oliva
 https://cdn.pontiscloud.com/output/NDS/OlivaH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFWnzgxX9DmjletzDKXRtLfMyd-B_Qgn0JMhNlzu8L3xvH3Vuz_bc2CEpZ3QKiC7ZaO809Kx7uS1I_qDiE08FnaVeHiOt3KhAnYLzAAJDyh1Adb1N5PpPtZZkP94bVUzl_LZioqxRkLVg6VIRfk6B7cG2IsdCYbs5PdGjhU7NTB6a3TZ6mLigEEmoJqB4/s200-rw/teuc.png" group-title="INTERIOR - CORDOBA", Teleco Ucacha
+https://cdn.pontiscloud.com/output/SMT4/TelecoUcachaD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="INTERIOR - CORDOBA", COOPLUS
 https://cdn.pontiscloud.com/output/SMT5/PORH/playlist.m3u8
@@ -162,10 +214,29 @@ https://cdn.pontiscloud.com/output/SMT5/PORH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="INTERIOR - CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
 https://online.coopmorteros.coop/radiourbana/canal01.m3u8
 
+#EXTINF:-1 group-title="INTERIOR - CORDOBA", TCR
+https://cdn.pontiscloud.com/output/LVR/TCRD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://cemb.coop.ar/cemb/assets/img/logo.png" group-title="INTERIOR - CORDOBA", Canal de servicios de Monte Buey
+https://cdn.pontiscloud.com/output/NDS/RTFD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" tvg-logo="" group-title="INTERIOR - CORDOBA", TRU
+https://cdn.pontiscloud.com/output/NDS/TRUd/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR - CORDOBA", TV Coop - Villa Huidobro
+https://cdn.pontiscloud.com/output/SMT2/VHD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR - CORDOBA", Luque TV - Luque
+https://cdn.pontiscloud.com/output/STAROSA/LUQUETVD/output.mpd
+
+
 # ============ INTERIOR - TUCUMAN (9 canales) ============
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" group-title="INTERIOR - TUCUMAN", PALOMAR TV
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0Ac5Y1AdeH_YiOcQVLPNTLwkZeltURKPlLSIl9VKlDQ=s900-c-k-c0x00ffffff-no-rj" group-title="INTERIOR - TUCUMAN", 7 NORTE TV
+https://ntvcanal7.ddns.net:81/dash/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/40.jpg" group-title="INTERIOR - TUCUMAN", SOLIVE TV
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
@@ -188,6 +259,7 @@ https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3v1VYkM_aMWw-cEyyOW9V-0rJxYObYXvWOT9fUepUvVIUPKcQ5Pl3_cfX7QQMEPmoMiNFyyuYXDYRyiJ1owCxCYCAblJDyjkTHvUyCuQANKjEOMIMovnUwMiqaA1p78U2AP_rqN0lKBMs4LeN83byMPWsWl6oNhVaje0OmzIPod3UPP4tOK9kvE3T0kc/s200-rw/f15419db-ab90-4407-ac45-344fd1992234_removalai_preview.png" group-title="INTERIOR - TUCUMAN", TUCUMAN TV
 https://live20.bozztv.com/akamaissh101/ssh101/eventos2035/chunks.m3u8
 
+
 # ============ INTERIOR - ROSARIO (5 canales) ============
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTslIfnfmekYjckAnWB0NkCCURlhHHL7Plx5g&s" group-title="INTERIOR - ROSARIO", EL TRES ROSARIO
@@ -200,9 +272,16 @@ https://cdn.pontiscloud.com/output/ARR2/TelefeRosarioH/playlist.m3u8
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERIOR - ROSARIO" , EL NUEVE BAHIA BLANCA
-http://190.185.208.125:8000/play/a04h/index.m3u8
+https://cdn.pontiscloud.com/output/SMT3/C9BBD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--4BVC.png" group-title="INTERIOR - ROSARIO", BVC BAHIA BLANCA
+https://cdn.pontiscloud.com/output/SMT7/BVCd/output.mpd
+
 
 # ============ INTERIOR - SANTA FE (32 canales) ============
+
+#EXTINF:-1 group-title="INTERIOR - SANTA FE", RTS
+https://cdn.pontiscloud.com/output/SMT6/RTSd/output.mpd
 
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="INTERIOR - SANTA FE", TELEFE SANTA FE
 https://cdn.pontiscloud.com/output/COR/TSFH/track_0_3000/playlist.m3u8
@@ -221,6 +300,9 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/14-800x450.jpg" group-title="INTERIOR - SANTA FE", CANAL 14 ELORTONDO
 https://stmv2.voxtvhd.com.br/canal14tv2/canal14tv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="INTERIOR - SANTA FE", VIVE TV FUNES SANTA FE
+https://cdn.pontiscloud.com/output/SMT4/VIVED/output.mpd
 
 #EXTINF:-1 tvg-logo="https://linktvcanal.com/wp-content/uploads/2017/07/logo.png" group-title="INTERIOR - SANTA FE", LINK TV
 https://panel.host-live.com:19360/linktv/linktv.m3u8
@@ -246,6 +328,12 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CISC.png" group-title="INTERIOR - SANTA FE", CISC Canal 4
 https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.funescoop.com.ar/image/catalog/fullvision-2.png" group-title="INTERIOR - SANTA FE", Funes Fullvision
+https://cdn.pontiscloud.com/output/SMT2/FVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2532/CH_LOGO/800/542/0/0/35408141078125.png" group-title="INTERIOR - SANTA FE", Canal 11 María Juana
+https://cdn.pontiscloud.com/output/SMT5/MariaJuanaD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="INTERIOR - SANTA FE", SOMOS SANTA FE
 http://201.217.246.42:44310/Live/cfdfea5086fa9da4b80f3eb5c60df463/local-12.playlist.m3u8
 
@@ -264,6 +352,9 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="https://veonoticias.com/wp-content/themes/cablevideo/img/veonoticias.svg" group-title="INTERIOR - SANTA FE", Veo Santo Tomé 2CTV
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal3tacural.com.ar/wp-content/uploads/2023/05/cropped-logo_canal3tacural.jpg" group-title="INTERIOR - SANTA FE", CANAL 3 TACURAL
+https://cdn.pontiscloud.com/output/ARR2/TacuralD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://margaritaweb.com.ar/wp-content/uploads/2024/10/logoGCvNg1V6j.png" group-title="INTERIOR - SANTA FE", Canal 2DOS Margarita
 https://cs1.xcast.com.br/7584/7584/playlist.m3u8
 
@@ -279,8 +370,12 @@ https://vivo.solumedia.com:19360/tves/tves.m3u8
 #EXTINF:-1 tvg-logo="https://claroproducciones.com.ar/03-2023/9ebe58c5031c8362afcf80a197c95e7b.jpg" group-title="INTERIOR - SANTA FE", CLARO DE LUNA TV SANTA FE
 https://nd106.republicaservers.com:4433/hls/c7738/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/800/542/0/0/86198033078075.png" group-title="INTERIOR - SANTA FE", TvCoop Suardi
+https://cdn.pontiscloud.com/output/ARR3/SADD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHALMjUgEpbqloELPEPoxG5O5FYVF7LKa1mQ&s" group-title="INTERIOR - SANTA FE", La Vitrola TV
 https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
+
 
 # ============ INTERIOR - MENDOZA (9 canales) ============
 
@@ -293,14 +388,24 @@ https://streaming.jtamendoza.com/hls/test_hd720.m3u8
 #EXTINF:-1 tvg-logo="https://www.unidiversidad.com.ar/img/home/footer/Uni_logo_footer.svg" group-title="INTERIOR - MENDOZA", SEÑAL U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 
+#EXTINF:-1 group-title="INTERIOR - MENDOZA",TV Cooperativa Cecsagal - General Alvear
+https://cdn.pontiscloud.com/output/SMT4/CECD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMmZXUMTPaLjslA4b0_5Jq-J1re_XruOWA0uqV5fuBiOZJCwYCKQtrZtMZsanXU4w8R8-fiLHPfOJ70pRcB7FZdBJs_KD5S8bSUTwGbvCrOzL9L5QOdDlYhquReKtiOH3I5SJBtoBnbQo1_L8leA1oj1q1ZEv0aV6vD9Mvq3RPtYeD-yOjelQHIL3GLRk/s200-rw/large.242828769_ElSieteMendoza.png.4a00e8a203d1058a5898ebce876d7d19.png" group-title="INTERIOR - MENDOZA", SIETE MENDOZA
 https://g4.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3Pnfjp1HzcPzAgS15umLYoD-xS5r9zLOo32iHrbcESBkGAbhM9HPdt03OqhyPbuQrSm4cedH-Z5mH3mYOObXteVkRcwipd6MracOsllNO9KZ9Q47p2RjtqYVi9ypmwqPZH1r8kV-2xeHA6tRxDHtAL0sTxsSATqO3l-bWchYQBKmETks4s2GTTIvPsI/s400/410842216_691085393171856_4843831681155509231_n.png" group-title="INTERIOR - MENDOZA", CANAL 8 VALLE DE UCO
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
+#EXTINF:-1 tvg-logo="h" group-title="INTERIOR - MENDOZA",TVA Canal 4 San Rafael
+https://cdn.pontiscloud.com/bpk-tv/tvasanrafael/default/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="INTERIOR - MENDOZA",Canal 6 San Rafael
+https://cdn.pontiscloud.com/bpk-tv/canal6sanrafael/default/index.mpd
+
 #EXTINF:-1 tvg-logo="https://auroraargentina.com/css//programas/Aurora.png" group-title="INTERIOR - MENDOZA", AURORA ARGENTINA 91.3
 https://live.enhdtv.com:19360/auroraradio/auroraradio.m3u8
+
 
 # ============ INTERIOR - SALTA (8 canales) ============
 
@@ -328,6 +433,7 @@ https://neoxtv.digitalnoa.com.ar/memfs/57ccca32-78e8-43e1-b023-a40906492f5e_outp
 #EXTINF:-1 tvg-logo="https://ciudadfm.com.ar/wp-content/uploads/2024/06/canal-12-150px.png" group-title="INTERIOR - SALTA", Canal 12 Tartagal
 https://stream.arcast.net:4443/munitar/munitar/playlist.m3u8
 
+
 # ============ INTERIOR - MISIONES (22 canales) ============
 
 #EXTINF:-1 tvg-logo="https://misionescuatro.com/wp-content/themes/misiones-cuatro-2018/img/logo.svg?x19163" group-title="INTERIOR - MISIONES", MISIONES CUATRO MISIONES
@@ -350,6 +456,9 @@ https://iptv.ixfo.com.ar:30443/live/Canal35TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/41.jpg" group-title="INTERIOR - MISIONES", DONNA TV
 https://live.enhdtv.com:8081/donnatvdigital/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/canal12misiones.com/wp-content/uploads/2023/06/Recurso-3full-blanco.png?resize=224%2C300&ssl=1" group-title="INTERIOR - MISIONES", CANAL 12 MISIONES
+https://cdn.pontiscloud.com/output/SMT6/BTVD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png" group-title="INTERIOR - MISIONES", Canal 2 MISIONES
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
@@ -393,6 +502,7 @@ https://inliveserver.com:1936/9036/9036/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmaltoparana.com/images/logo/logo_1762967117.png" group-title="INTERIOR - MISIONES", Alto Paraná 90.5 FM - Eldorado
 https://inliveserver.com:1936/12022/12022/playlist.m3u8
 
+
 # ============ INTERIOR - ENTRE RIOS (13 canales) ============
 
 #EXTINF:-1 tvg-logo="https://www.elonce.com/galeria/sitio/logo-elonce.svg" group-title="INTERIOR - ENTRE RIOS", CANAL 11 PARANA
@@ -433,6 +543,7 @@ https://cs1.xcast.com.br/7662/7662/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1094055182395162625/M7oEXHge_400x400.jpg" group-title="INTERIOR - ENTRE RIOS", FM LITORAL 103.1 PARANA
 https://cs1.xcast.com.br/7798/7798/playlist.m3u8
+
 
 # ============ INTERIOR - CORRIENTES (15 canales) ============
 
@@ -478,6 +589,10 @@ https://stmv5.livecastv.com/infolibres/infolibres/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmrockandpopgoya.com.ar/web/wp-content/uploads/2024/12/LOGO-footer-200.webp" group-title="INTERIOR - CORRIENTES", Rock & Pop 102.5 FM Goya
 https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRTVcnmmAkoZQNZhY0vnolhXk83DdMskL2gdSN1UFwNePMNHAYTu6jPfmqfEwbNiC1ZOiRMJ4VBSGoJySEYXkdEB0E5r44iNtqKrCzzP1Wwy7YPOaKvAHL6zl29x8JGdgChwO2uJqNzwyeYaDJ8PsDsvRRUUpuHvD3ULJRUUNxt0UoEz_YLqdwcO8R4E/s200-rw/54537430079017.png" group-title="INTERIOR - CORRIENTES", El Sauce TV
+https://cdn.pontiscloud.com/output/ARR3/ElSauceTVD/output.mpd
+
+
 # ============ INTERIOR - CHACO (7 canales) ============
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="INTERIOR - CHACO", 9LINK CHACO
@@ -501,6 +616,7 @@ https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8?hls_ctx=71w8u9fm
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-IF-GL1j7RKI2vNaHYZcvPZ9NK2jjeh90PkRVx=s900-c-k-c0x00ffffff-no-rj" group-title="INTERIOR - CHACO", TIV TRES ISLETAS CHACO
 https://videohd.live:19360/8008/8008.m3u8
 
+
 # ============ INTERIOR - FORMOSA (38 canales) ============
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="INTERIOR - FORMOSA", CANAL 3 FORMOSA
@@ -509,11 +625,17 @@ https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1339774511537737728/2LZUznXw.jpg" group-title="INTERIOR - FORMOSA", SUBLIME GRACIA TV FORMOSA
 https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Canal_12.png" group-title="INTERIOR - FORMOSA", Canal 12 Trenque Launquen
+https://cdn.pontiscloud.com/output/SMT6/C12TLD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" group-title="INTERIOR - FORMOSA", TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="INTERIOR - FORMOSA", CANAL 2 MAR DEL PLATA
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2501/CH_LOGO/800/542/0/0/45581772073270.png"  group-title="INTERIOR - FORMOSA", Punta Alta Visión
+https://cdn.pontiscloud.com/output/SMT2/CEPATVD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png" group-title="INTERIOR - FORMOSA", CANAL 10 MAR DEL PLATA
 https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
@@ -532,6 +654,30 @@ https://videohd.live:19360/8064/8064.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7L7y5bellgBfUC4JoZzF9nMfB30uTyPXtpxWqmHT933Xp9mnGznNFYK0apcyLH1N9ZkVrM9jUVTQp-vAMeqH3ix3lGPAOllOlyINPaafeQiap2xLQL7uJZzqLEqfIxaLvsYhpVgAgi28nkWAw3jcQkI-AYtWRx_gqNizA8lu3PrS_XxqMxa3MxQwJQ68/s200-rw/LOGO-TVO-DEFINITIVO-COMPLETO.png.b1764ade82615be7d8445ed73dd575d7.png" group-title="INTERIOR - FORMOSA", TV ONLINE SALADILLO
 https://5f700d5b2c46f.streamlock.net/tvonline/tvonline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2503/CH_LOGO/800/542/0/0/18862298077160.png" group-title="INTERIOR - FORMOSA", canal 7 San Antonio de Areco
+https://cdn.pontiscloud.com/output/ARR2/C7SAAD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3082/CH_LOGO/800/542/0/0/88754444078504.png" group-title="INTERIOR - FORMOSA", CableCoop Charlone
+https://cdn.pontiscloud.com/output/SMT4/CCCD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3422/CH_LOGO/800/542/0/0/60976969078835.png" group-title="INTERIOR - FORMOSA", NTV Tortuguitas
+https://cdn.pontiscloud.com/output/SMT5/NTVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2527/CH_LOGO/800/542/0/0/39411063077630.png" group-title="INTERIOR - FORMOSA", RTV Canal 2 Golcable
+https://cdn.pontiscloud.com/output/SMT5/GolcableD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2531/CH_LOGO/800/542/0/0/91408905077946.png" group-title="INTERIOR - FORMOSA", Canal 2 Pueblo San José
+https://cdn.pontiscloud.com/output/SMT2/PSJD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2533/CH_LOGO/800/542/0/0/70000165078012.png" group-title="INTERIOR - FORMOSA", Canal 4 Pigüé
+https://cdn.pontiscloud.com/output/SMT3/C4PD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/Z22uY5JhFN9fq0mANcZHa7FMntU8EeSvt7Oj261jfQpc0t8TnnJS9vi5IecxNqOAFNzcIVdH2G9Y65NAVkEYDtKwS7uqPjZ0JPsuGw" group-title="INTERIOR - FORMOSA", MC General Viamonte
+https://cdn.pontiscloud.com/output/SMT6/MCVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://marchitv.ar/wp-content/uploads/2022/05/IsologoMarchiTVFinalSINPDO.png" group-title="INTERIOR - FORMOSA", Marchi TV
+https://cdn.pontiscloud.com/output/SMT2/MARCHITVD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://canalinmobiliario.tv/wp-content/uploads/2022/07/LOGO-Canal-Inmobiliario-1536x864.png" group-title="INTERIOR - FORMOSA", CANAL INMOBILIARIO TV
 https://vivo.solumedia.com:19360/canalinmobiliario/canalinmobiliario.m3u8
@@ -586,6 +732,7 @@ https://vivo.solumedia.com:19360/radioformosa/radioformosa.m3u8
 
 #EXTINF:-1 tvg-logo="https://delsolformosa.com.ar/wp-content/uploads/2024/06/RDS-959-logo.png" group-title="INTERIOR - FORMOSA", RDS 95.9 FORMOSA
 https://stmvideo7.livecastv.com/rds959/rds959/playlist.m3u8
+
 
 # ============ INTERIOR - NEUQUEN (33 canales) ============
 
@@ -688,7 +835,14 @@ https://inliveserver.com:1936/9014/9014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1462_Inminente_TV.png" group-title="INTERIOR - NEUQUEN", Inminente TV
 http://liketv.pro:80/User1626/28TM4MEU66/499584.ts
 
+
 # ============ INTERIOR - RIO NEGRO (5 canales) ============
+
+#EXTINF:-1 tvg-logo="https://diario10.com.ar/wp-content/uploads/2024/04/LOGO-DIARIO10-2020-OK_544-X-180.png" group-title="INTERIOR - RIO NEGRO", CANAL 10 RIO NEGRO
+https://cdn.pontiscloud.com/output/SMT2/C10RND/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png" group-title="INTERIOR - RIO NEGRO", Coopetel TV - El Bolsón
+https://cdn.pontiscloud.com/output/SMT4/CPTD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4-7XDYAh2ImpJ96K9Tt4FROBLAtod49dPA&s" group-title="INTERIOR - RIO NEGRO", ABTV
 https://videostream.shockmedia.com.ar:19360/abtvbariloche/abtvbariloche.m3u8
@@ -698,6 +852,7 @@ https://cdn.pontiscloud.com/output/SMT4/BC6H/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiolapuntual.com.ar/images/logo.png" group-title="INTERIOR - RIO NEGRO", La Puntual 97.1 FM Viedma
 https://inliveserver.com:1936/12018/12018/playlist.m3u8
+
 
 # ============ INTERIOR - CHUBUT (5 canales) ============
 
@@ -710,8 +865,12 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="hhttps://canal12web.com/wp-content/uploads/2025/09/Logo-Canal-12-OK-200px.png" group-title="INTERIOR - CHUBUT", Canal 12 PUERTO MADRYN
 https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc25HHhBJjZc0xTozSThQ0im6LQ19vbc0a1A&s" group-title="INTERIOR - CHUBUT", GCHUTV
+https://cdn.pontiscloud.com/output/SMT7/GchuTVH/output.mpd
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FibGUuY2FuYWxyaW9tYXlvX3NjcmVlbl8wXzE2MTAwMzE3NjdfMDI0/screen-0.jpg?fakeurl=1&type=.jpg" group-title="INTERIOR - CHUBUT", Cable Canal 7 Rio Mayo (SOLO NOTICIERO)
 https://panel.host-live.com:19360/20016/20016.m3u8
+
 
 # ============ INTERIOR - JUJUY (14 canales) ============
 
@@ -757,6 +916,7 @@ https://videostream.shockmedia.com.ar:19360/grupomaxima/grupomaxima.m3u8
 #EXTINF:-1 tvg-logo="https://estacionelcarmenjujuy.com/wp-content/uploads/2022/10/301147530_419892296912665_7814066926765462472_n-2.jpg" group-title="INTERIOR - JUJUY", Premier 91.9 FM El Carmen Jujuy
 https://stmvideo6.livecastv.com/estacion919/estacion919/playlist.m3u8
 
+
 # ============ INTERIOR - SAN LUIS (5 canales) ============
 
 #EXTINF:-1 tvg-logo="https://sanluismas.com/wp-content/uploads/2024/03/logo-sl.webp" group-title="INTERIOR - SAN LUIS", SAN LUIS +
@@ -774,10 +934,20 @@ https://stream.arcast.live:4443/radiomasi/radiomasi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://instagram.faep14-2.fna.fbcdn.net/v/t51.2885-19/542886785_17892473349328825_1319908546859646430_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.faep14-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QGRdn_voywBDS5BIsMDgiVq3OR6ZrQcmrvp7h9s3O36idtpT-nqQKR3ekrf3CL8tck&_nc_ohc=-ywYyABDz4QQ7kNvwHM5r9Z&_nc_gid=FjBPXz2_bFSMVO9Faepqhg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfjcrTnJNU8E7GsllI_R_2V931j6M90ZaI59NFUfnmCfkQ&oe=691468CB&_nc_sid=8b3546" group-title="INTERIOR - SAN LUIS", Punk y Desorden
 https://inliveserver.com:1936/9038/9038/playlist.m3u8
 
+
 # ============ INTERIOR - LA PAMPA (7 canales) ============
 
 #EXTINF:-1 group-title="INTERIOR - LA PAMPA", TV PUBLICA PAMPEANA
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ldmtv.com.ar/vivo.jpg" group-title="INTERIOR - LA PAMPA", LDM TV LA PAMPA
+https://cdn.pontiscloud.com/output/ARR2/Canal19LPD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.corpico.com.ar/static/img/tvco-vivo.png" group-title="INTERIOR - LA PAMPA", TVCO GENERAL PICO
+https://cdn.pontiscloud.com/output/ARR/TVCOD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR - LA PAMPA", CREA TV
+https://cdn.pontiscloud.com/output/SMT7/VtxD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702081768405520384/FzPbHDMn_400x400.jpg" group-title="INTERIOR - LA PAMPA", CPE TV LA PAMPA
 https://g4.mc-slo.transport.edge-access.net/b05/ngrp:cpetv1-100187_all/cpetv1-100187_720p.m3u8
@@ -787,6 +957,7 @@ https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cadenaenergy.com/wp-content/uploads/2024/01/cropped-cropped-LOGO-FINITO-SIN-FONDO.png" group-title="INTERIOR - LA PAMPA", CADENA ENERGY (SOLO AUDIO)
 http://innovatingthenet.com.ar:8001/energyai.mp3
+
 
 # ============ INTERIOR - LA RIOJA (8 canales) ============
 
@@ -799,6 +970,9 @@ https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/07/18-platea-vip-800x450.jpg" group-title="INTERIOR - LA RIOJA", Canal 11 Platea Vip
 https://stmv6.voxtvhd.com.br/canal11larioja/canal11larioja/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_KE5xzh4tUVGvJkY62MsCG3udKpDsak18a9uJ6bEhq1g6KuxSsw7KueStQlSukQPjpIUlBdkuIvEPTdsVMWS8OmSSVfCoV8hzRbVtbZt3fgoKTAnprQ8dJyQA_dnOOnEt-jOw1y2bvofywmD7BjqsmL_xsUZaum-lYb8FFdwD5zOMQ51lzS8APfXZ/s320/canal9-lr.png" group-title="INTERIOR - LA RIOJA", CANAL 9 LA RIOJA
+https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NDY3OTM3Iiwic2lwIjoiMTg2LjEzLjIwOC4yMDUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWw5X0xhX1Jpb2phL3NhX2Rhc2hfZnVsbF9lXzdDRjlCQjA0MUFEODk3MTNBRDhDRjRDRi8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijk2ODUzNzJkYzM2YmM0YWQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzE2Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.ymLwDKsh_2S05NCq915Q57Ec8Kmp3QvokzLoVHloZpFhq3U48OMyOVr2Xw2gJKES5nGL9xMerzcXeEjGrSWyFg==/live/c4eds/Canal9_La_Rioja/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9_La_Rioja.mpd
+
 #EXTINF:-1 tvg-logo="https://canal5tvchepes.com.ar/wp-content/uploads/2022/08/logo-canal.png" group-title="INTERIOR - LA RIOJA", TEVE 5 CHEPES LA RIOJA
 https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
 
@@ -810,6 +984,7 @@ https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmfiesta.com.ar/wp-content/uploads/2024/03/WhatsApp-Image-2019-03-01-at-21.10.08.jpeg" group-title="INTERIOR - LA RIOJA", FM FIESTA 99.3 LA RIOJA
 https://183.bozztv.com/giatv/giatv-fmfiesta/fmfiesta/chunks.m3u8
+
 
 # ============ INTERIOR - SANTA CRUZ (12 canales) ============
 
@@ -834,6 +1009,12 @@ https://nd106.republicaservers.com:4433/hls/c7091/index.m3u8
 #EXTINF:-1 tvg-logo="https://plusnews.com.ar/wp-content/uploads/2023/05/logo-PLUSNEWS-x1.png" group-title="INTERIOR - SANTA CRUZ", PLUS NEWS RIO GALLEGOS
 https://stream.arcast.tv:8443/infomedia/infomedia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1022/CH_LOGO/800/542/0/0/31560740072137.png" group-title="INTERIOR - SANTA CRUZ", Cable 10 Río Gallegos
+https://cdn.pontiscloud.com/output/ARR/Rio_GallegosD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.el5podergregores.com.ar/imagenes/BANNER.png" group-title="INTERIOR - SANTA CRUZ", El 5to Poder TV Gobernador Gregores Santa Cruz
+https://cdn.pontiscloud.com/output/ARR/Rio_GallegosD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://www.radiosanjorge.com.ar/wp-content/uploads/2014/12/logonuevo-1.png" group-title="INTERIOR - SANTA CRUZ", RADIO SAN JORGE 96.5 FM CALETA OLIVIA
 https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
 
@@ -843,13 +1024,27 @@ https://inliveserver.com:1936/12030/12030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://elcaletenseradio.com.ar/03-2022/b95960a8fd16b1e030f73162697125a7.jpg" group-title="INTERIOR - SANTA CRUZ", El Caletense 98.5 FM  Caleta Olivia
 https://nd106.republicaservers.com:4433/hls/elcaletense/index.m3u8
 
+
 # ============ INTERIOR - TIERRA DEL FUEGO (6 canales) ============
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" tvg-logo="" group-title="INTERIOR - TIERRA DEL FUEGO", CANAL 2 TIERRA DEL FUEGO
+https://netium.cdn.rcs.net.ar/mnp/tvfcanal2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" tvg-logo="" group-title="INTERIOR - TIERRA DEL FUEGO", CANAL 3 TIERRA DEL FUEGO
+https://netium.cdn.rcs.net.ar/mnp/tvfcanal3/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_TV_P%C3%BAblica_Fueguina_%28cropped%29.png/1200px-Logo_TV_P%C3%BAblica_Fueguina_%28cropped%29.png" group-title="INTERIOR - TIERRA DEL FUEGO", TVP FUEGUINA
+https://netium.cdn.rcs.net.ar/mnp/tvpfueguina/output.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="INTERIOR - TIERRA DEL FUEGO", CANAL 18 TVF
+https://netium.cdn.rcs.net.ar/mnp/tvfcanal18/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.canal2.com.ar/_next/image?url=%2Fcanal2-logo.png&w=48&q=75" group-title="INTERIOR - TIERRA DEL FUEGO", CANAL 2 USHUAIA
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.after1037.com.ar/images/logo.png" group-title="INTERIOR - TIERRA DEL FUEGO", After 103.7 FM Rio Grande
 https://inliveserver.com:1936/9030/9030/playlist.m3u8
+
 
 # ============ INTERIOR - SANTIAGO DEL ESTERO (3 canales) ============
 
@@ -862,6 +1057,7 @@ https://videostream.shockmedia.com.ar:19360/rdmtv/rdmtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBUsKPGn1ShncSMoaqCGY7OSRgddRltb1gg&s" group-title="INTERIOR - SANTIAGO DEL ESTERO", LIVING TV
 https://videostream.shockmedia.com.ar:19360/lcproducciones/lcproducciones.m3u8
 
+
 # ============ DEPORTIVOS (198 canales) ============
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodP96nz0Jjr7WmjKztLq4XjYCIZYHPRmfrA&s" group-title="DEPORTIVOS",ESPN PREMIUM
@@ -871,7 +1067,7 @@ http://190.60.41.107:8008/play/a0w2/index.m3u8
 http://45.5.151.62:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodP96nz0Jjr7WmjKztLq4XjYCIZYHPRmfrA&s" group-title="DEPORTIVOS", ARG Sports 1
-http://45.5.151.62:8000/play/a02o/index.m3u8
+http://190.60.41.107:8008/play/a0w2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodP96nz0Jjr7WmjKztLq4XjYCIZYHPRmfrA&s" group-title="DEPORTIVOS", ARG Sports 2
 http://45.5.151.62:8000/play/a02p/index.m3u8
@@ -889,7 +1085,7 @@ http://45.5.149.220:8000/play/a03m/index.m3u8
 http://45.5.149.220:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodP96nz0Jjr7WmjKztLq4XjYCIZYHPRmfrA&s" group-title="DEPORTIVOS", ARG Sports 7
-http://45.5.151.62:8000/play/a02o/index.m3u8
+http://190.60.41.107:8008/play/a0w2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodP96nz0Jjr7WmjKztLq4XjYCIZYHPRmfrA&s" group-title="DEPORTIVOS", ARG Sports 8
 http://45.5.151.62:8000/play/a02p/index.m3u8
@@ -995,22 +1191,22 @@ http://181.78.109.48:9998/play/a058/index.m3u8
 http://181.13.252.102:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/800/542/0/0/70671934073582.png" group-title="DEPORTIVOS",PX SPORTS
-http://181.78.109.48:9998/play/a03q/index.m3u8
+http://186.33.1.71:8000/play/a09m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="DEPORTIVOS",Golf Channel
 http://181.78.109.48:9998/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Golf_channel_hd.png/revision/latest/scale-to-width-down/250?cb=20110408110738" group-title="DEPORTIVOS",Golf Channel HD
-http://181.78.109.48:9998/play/a00m/index.m3u8
+http://181.78.109.48:9998/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="DEPORTIVOS",Latin America Sport
 http://181.78.109.48:9998/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/3840px-Win_Sports_nuevo_logo.svg.png" group-title="DEPORTIVOS",WIN SPORTS
-http://179.1.238.35:8000/play/a02w/index.m3u8
+http://179.1.238.35:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png" group-title="DEPORTIVOS",WIN SPORTS+
-http://179.1.238.35:8000/play/a02w/index.m3u8
+http://181.78.85.59:2500/play/a030/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
@@ -1019,6 +1215,7 @@ http://190.60.41.107:8008/play/a0o8/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2Ff9ed6770-e2fe-4147-81f6-a083cf6390d4-1771856213.119908.256x256.jpg&w=256&q=75" group-title="DEPORTIVOS", TyC SPORTS FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DEPORTIVOS", DSPORTS
 http://181.64.27.65:8000/play/a0cq/index.m3u8
@@ -1387,13 +1584,13 @@ https://amg26268-amg26268c20-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playli
 https://bbb-pbtv-freelivesports.otteravision.com/bbb/pbtv/pbtv.m3u8?partner=freelivesports&channel_name=ProBox%20TV&content_genre=Boxing%2CMMA%2CSport&ic=IAB17%2CIAB17-20%2CIAB17-5&rating=G&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-id="top-barca-es" tvg-name="top-barca-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="DEPORTIVOS" , TOP Barça
-https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8?channel_name=Top%20Barca&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=G&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel_id=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6347&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=db11905c-763c-4674-b176-1ac46d225676&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="fifa-plus-es-new" tvg-name="fifa-plus-es-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/381e0e02-e3e4-4bf8-af7d-0751ec0cd395.png" group-title="DEPORTIVOS" , FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=217.216.126.175&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=6128&ads.rtv_content_language=es&ads.rtvid=271859&ads.streaming_id=db0a8c3d-a1f8-48aa-833c-c319ef6f2044&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1780
 
 #EXTINF:-1 tvg-id="mypadel-tv" tvg-name="mypadel-tv" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1de5d983-6666-4d47-8f02-b7a898f2ebc3.png" group-title="DEPORTIVOS" , MyPadel TV
-https://daiconnect.com/live/hls/tvup/sportsstudios-mypadeltv/.m3u8?channel_name=My%20Padel%20TV&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&language=es&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]&domain=watch.freelivesports.tv
+https://daiconnect.com/live/hls/tvup/rk-mypadeltv/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=929&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=4399&ads_rtv_content_language=es&ads_streaming_id=4c238f4c-4c1f-4ab4-ae37-0a9f5bc68142&ads_tcs_channel_id=929&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="laliga-inside" tvg-name="laliga-inside" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg" group-title="DEPORTIVOS" , LaLiga Inside
 https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=227&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5966&ads_rtv_content_language=es&ads_streaming_id=42a42a51-4e7c-4e06-9ae2-254972a54e6a&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -1420,10 +1617,10 @@ https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://b8bba85e8540473e97af52b05a3c9d9a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORB-US-EN-FAST-FREELIVESPORTS/644/freelivesports/hls/master/playlist.m3u8?ads.channel_name=Red%20Bull%20TV&ads.content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ads.iab_category=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
 
 #EXTINF:-1 tvg-id="motorvision-tv-spanish" tvg-name="motorvision-tv-spanish" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1c0727dc-17ab-4c8b-b6d9-3b300fb3f458.png" group-title="DEPORTIVOS" , MOTORVISION.TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020&avod=1&content_dist_name=freelivesports&content_channel=Motorvision&channel_name=Motorvision&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.content_livestream=0&ads.csid=zeus_es_motorvision_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=c9d711f5-bf5b-46c3-a2ab-c9afd22b27a5&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_channel_id=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=motorvision-tv-spa-rakutentv&ads.xumo_streamId=88883004
 
 #EXTINF:-1 tvg-id="tennis-plus" tvg-name="tennis-plus" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0922c6a-1c35-4fe3-a0cd-688efa948a68.jpeg" group-title="DEPORTIVOS" , Tennis+
-https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8?channel_name=Tennis%20TV&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&language=en&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8?ads_amagi_channel_id=985&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=7182&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=0d761218-351f-4cf4-bb11-59ab77cca3da&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/thumbnail.jpg"group-title="DEPORTIVOS",Adrenalina Pura TV
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
@@ -1435,7 +1632,7 @@ https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png"group-title="DEPORTIVOS",Claro Sports Mexico
-http://190.60.41.107:8008/play/a0z8/index.m3u8
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/thumbnail.jpg"group-title="DEPORTIVOS",ITV Deportes
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
@@ -1452,17 +1649,18 @@ https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-deportivo-de-ufc-el-m%C3%A1ximo-campeonato-lucha-es-una-empresa-norteamericana-promoci%C3%B3n-artes-marciales-mixtas-con-sede-en-209444378.jpg"group-title="DEPORTIVOS",UFC
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
+
 # ============ CANALES INFANTILES (38 canales) ============
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" group-title="CANALES INFANTILES",Cartoon Network 1 HD
-http://190.60.41.107:8008/play/a0pj/index.m3u8
+http://45.5.151.62:8000/play/a00v/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" audio-track="spa" group-title="CANALES INFANTILES", Cartoon Network 2 HD
-http://190.60.41.107:8008/play/a0pj/index.m3u8
+http://45.5.151.62:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANALES INFANTILES",Discovery Kids
 http://45.5.151.62:8000/play/a00w/index.m3u8
@@ -1470,7 +1668,7 @@ http://45.5.151.62:8000/play/a00w/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/174.png" group-title="CANALES INFANTILES",Cartoonito
-http://181.224.255.210:8001/play/a0su/index.m3u8
+http://190.60.41.107:8008/play/a0yi/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
@@ -1483,12 +1681,12 @@ http://45.5.151.62:8000/play/a00u/index.m3u8
 http://181.13.252.102:8000/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/6857/CH_LOGO/60/40/0/0/27051020073952.png" group-title="CANALES INFANTILES",Nickelodeon HD
-http://181.224.255.210:8001/play/a0fm/index.m3u8
+http://190.60.41.107:8008/play/a0nt/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/816.png" group-title="CANALES INFANTILES",Nick Jr
-http://181.224.255.210:8001/play/a0mm/index.m3u8
+http://190.60.41.107:8008/play/a0y5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/thumbnail_1748446482151.jpg"group-title="CANALES INFANTILES",Nick Jr. Club
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
@@ -1513,7 +1711,7 @@ https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 http://190.60.41.107:8008/play/a0xk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/726/CH_LOGO/60/40/0/0/43956127073681.png" group-title="CANALES INFANTILES",Tooncast 2
-http://190.60.41.107:8008/play/a0xk/index.m3u8
+http://181.224.255.210:8001/play/a0ou/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1280px-ZooMoo_logo.svg.png" group-title="CANALES INFANTILES",ZooMoo
 http://181.78.109.48:9998/play/a00d/index.m3u8
@@ -1531,6 +1729,7 @@ http://45.5.151.62:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/BabyTV.png" group-title="CANALES INFANTILES", Baby TV
 http://191.97.6.30:8000/play/a0fk/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest?cb=20200123215611&path-prefix=es" group-title="CANALES INFANTILES", Bitme HD
 http://45.189.62.33:8002/play/a0nj/index.m3u8
@@ -1563,7 +1762,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://daiconnect.com/live/hls/tvup/rk-planetajunior/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=967&ads_content_categories=IAB1&ads_content_genre=animation%2Cchildren&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=2954&ads_rtv_content_language=es&ads_streaming_id=3f0cda9e-428d-4f7c-81c2-e46df93eb365&ads_tcs_channel_id=967&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/762/268/png-clipart-babyfirsttv-television-channel-babyfirst-tv-learn-colors-abcs-rhymes-more-television-text-thumbnail.png"group-title="CANALES INFANTILES",Babyfirst
-http://190.60.41.107:8008/play/a0o4/index.m3u8
+http://181.78.85.59:2500/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mazcom.com.ar/wp-content/uploads/2021/06/ERI_LOGO_1.png"group-title="CANALES INFANTILES",El Reino Infantil
 https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
@@ -1574,25 +1773,25 @@ https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
 # ============ PACK PREMIUM (HBO - UNIVERSAL+) (19 canales) ============
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO1 HD
-http://179.1.238.35:8000/play/a030/index.m3u8
+http://181.78.109.48:9998/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO2 HD
-http://181.224.255.210:8001/play/a0oo/index.m3u8
+http://181.13.252.102:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO3 INGLES HD
 http://190.108.93.75:8001/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-name="HBO 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO 2
-http://181.224.255.210:8001/play/a0oo/index.m3u8
+http://181.13.252.102:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO Family
-http://181.224.255.210:8001/play/a0nv/index.m3u8
+http://181.78.109.48:9998/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO Plus HD
-http://181.224.255.210:8001/play/a0qz/index.m3u8
+http://181.78.109.48:9998/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO Signature INGLES
-http://181.224.255.210:8001/play/a0re/index.m3u8
+http://181.13.252.102:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO POP
 http://181.224.255.210:8001/play/a0on/index.m3u8
@@ -1601,27 +1800,27 @@ http://181.224.255.210:8001/play/a0on/index.m3u8
 http://181.224.255.210:8001/play/a0rf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",HBO XTREME HD
-http://181.224.255.210:8001/play/a0nw/index.m3u8
+http://181.78.109.48:9998/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)",UNIVERSAL CINEMA HD
-http://45.5.119.43:4000/play/a0kt/index.m3u8
+http://179.1.238.35:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , UNIVERSAL COMEDY HD
-http://45.5.119.43:4000/play/a0i5/index.m3u8
+http://181.78.85.59:2500/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , Universal Crime
 http://45.5.119.43:4000/play/a0i4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="PACK PREMIUM (HBO - UNIVERSAL+)" , UNIVERSAL PREMIERE HD
-http://45.5.119.43:4000/play/a0i2/index.m3u8
+http://181.78.85.59:2500/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true" audio-track="spa" group-title="PACK PREMIUM (HBO - UNIVERSAL+)", UNIVERSAL TV
-http://45.5.151.62:8000/play/a01k/index.m3u8
+http://190.60.41.107:8008/play/a0nx/index.m3u8
 
 # ============ CINE (90 canales) ============
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="CINE",Golden
-http://190.60.41.107:8008/play/a0ys/index.m3u8
+http://190.60.41.107:8008/play/a0jn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" group-title="CINE",Cinecanal HD
 http://45.5.151.62:8000/play/a011/index.m3u8
@@ -1651,7 +1850,7 @@ http://45.5.151.62:8000/play/a01j/index.m3u8
 http://45.5.151.62:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" group-title="CINE",FX HD
-http://181.13.252.102:8000/play/a02v/index.m3u8
+http://190.60.41.107:8008/play/a0io/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="CINE",AXN HD
 http://45.5.151.62:8000/play/a01o/index.m3u8
@@ -1663,10 +1862,10 @@ http://181.224.255.210:8001/play/a0lp/index.m3u8
 http://45.5.151.62:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/330px-Warner_Channel_HD.svg.png" group-title="CINE",Warner Channel HD
-http://181.13.252.102:8000/play/a05e/index.m3u8
+http://190.60.41.107:8008/play/a0il/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" group-title="CINE",Comedy Central HD
-http://190.238.43.117:8000/play/a01b/index.m3u8
+http://179.1.238.35:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="CINE",AMC HD
 https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
@@ -1694,7 +1893,7 @@ http://45.5.151.62:8000/play/a01b/index.m3u8
 http://45.5.151.62:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CINE",Film&Arts
-http://181.13.252.102:8000/play/a030/index.m3u8
+http://181.224.255.210:8001/play/a0ql/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/92a275_ba84554429b24fc99429ae16cf5571c7~mv2.jpg/v1/fill/w_627,h_700,al_c,q_85,enc_avif,quality_auto/92a275_ba84554429b24fc99429ae16cf5571c7~mv2.jpg" group-title="CINE",LEG - Cine Premium
 http://190.60.41.107:8008/play/a0po/index.m3u8
@@ -1730,10 +1929,10 @@ http://45.5.151.62:8000/play/a01n/index.m3u8
 http://45.5.151.62:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="CINE" , STAR TVE
-http://liketv.pro:80/User1626/28TM4MEU66/55.ts
+http://181.78.109.48:9998/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1sB4rWsE3tpUxTIH7Bykf8/40497fcccd89b75d19f8a44cac4314eb/66_EuropaEuropa.png?fm=webp&q=80" group-title="CINE" , Film & Arts
-http://181.13.252.102:8000/play/a030/index.m3u8
+http://181.78.109.48:9998/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BVk47mx3/horrorvision-logo.png" group-title="CINE",HORROR VISION
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?&ads.xumo_channelId=88883019
@@ -1869,7 +2068,7 @@ http://181.78.109.48:9998/play/a069/index.m3u8
 http://190.7.19.197:232/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/680/CH_LOGO/60/40/0/0/8147709107493.png" group-title="CULTURALES",Discovery Science HD
-http://190.185.208.125:8000/play/a02k/index.m3u8
+http://190.60.41.107:8008/play/a0xh/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1890,13 +2089,13 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://190.60.41.107:8008/play/a0ii/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="CULTURALES",HGTV
-http://181.13.252.102:8000/play/a02j/index.m3u8
+http://190.60.41.107:8008/play/a0xl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" group-title="CULTURALES",History Channe l HD
-http://190.60.41.107:8008/play/a0ye/index.m3u8
+http://181.224.255.210:8001/play/a0m1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/301/CH_LOGO/60/40/0/0/68362124075201.png" group-title="CULTURALES",History Channel 2 HD
-http://190.60.41.107:8008/play/a0ye/index.m3u8
+http://190.60.41.107:8008/play/a0jv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NTGEO.png?raw=true" group-title="CULTURALES",Nat Geo HD
 http://190.60.41.107:8008/play/a0gn/index.m3u8
@@ -1905,7 +2104,7 @@ http://190.60.41.107:8008/play/a0gn/index.m3u8
 http://45.5.151.62:8000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1026/CH_LOGO/60/40/0/0/8597848007771.png" group-title="CULTURALES",Sun Channel HD
-http://190.60.41.107:8008/play/a0v4/index.m3u8
+http://181.224.255.210:8001/play/a0nx/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="CULTURALES", El Gourmet
 http://45.5.151.62:8000/play/a022/index.m3u8
@@ -1973,7 +2172,7 @@ https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
 https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg"group-title="CULTURALES",TV Naturaleza
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=1ef974fa-b6e6-4171-bb34-7a1faba0e258&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_channel_id=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=naturaleza-spa-rakutentv&ads.xumo_streamId=88883049
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/thumbnail.jpg"group-title="CULTURALES",TV Series de Crimen
 https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
@@ -1983,6 +2182,7 @@ https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
 
 #EXTINF:-1 tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2021/11/travel_logo_with_Image_3-scaled.jpg"group-title="CULTURALES",Tastemade Viajes
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
+
 
 # ============ NOVELAS Y VARIEDADES (237 canales) ============
 
@@ -2002,7 +2202,7 @@ http://45.5.151.62:8000/play/a01d/index.m3u8
 http://181.78.109.48:9998/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png" group-title="NOVELAS Y VARIEDADES",EURO Channel
-http://190.60.41.107:8008/play/a0y6/index.m3u8
+http://181.78.109.48:9998/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/New_EWTN_logo.jpg" group-title="NOVELAS Y VARIEDADES",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -2020,7 +2220,7 @@ http://181.224.255.210:8001/play/a0q8/index.m3u8
 http://45.5.151.62:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" group-title="NOVELAS Y VARIEDADES",Metro
-http://190.185.208.125:8000/play/a02g/index.m3u8
+http://181.13.252.102:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png" group-title="NOVELAS Y VARIEDADES",Pasiones HD
 http://190.60.41.107:8008/play/a0lu/index.m3u8
@@ -2029,13 +2229,13 @@ http://190.60.41.107:8008/play/a0lu/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/9737/CH_LOGO/60/40/0/0/3871340007170.png" group-title="NOVELAS Y VARIEDADES",TL NOVELAS
-http://190.60.41.107:8008/play/a0vm/index.m3u8
+http://181.78.109.48:9998/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="NOVELAS Y VARIEDADES",TNT Novelas HD
 http://45.5.151.62:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/9.png" group-title="NOVELAS Y VARIEDADES",Las Estrellas HD
-http://190.60.41.107:8008/play/a0yg/index.m3u8
+http://190.60.41.107:8008/play/a0ua/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NOVELAS Y VARIEDADES", CARAS TV
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
@@ -2043,17 +2243,25 @@ https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/carastv/livestream0/ch
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOVELAS Y VARIEDADES", CANAL E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNT--P495XvLXnG3EtJi0Fjz3ShjhC3-pUpQ&s" group-title="NOVELAS Y VARIEDADES", CONSTRUIR TV
+https://netium.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74=w240-h480" group-title="NOVELAS Y VARIEDADES", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="NOVELAS Y VARIEDADES",OROMAR TV
 http://190.60.41.107:8008/play/a0yx/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://gorricho.com.ar/wp-content/uploads/2022/06/22JUN_07_logoAntes-1.jpg" group-title="NOVELAS Y VARIEDADES", TEC TV
+https://netium.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wt94ulT522DHedSNj6m-PCw3tWpBMN7LF0VhIslu4x1-udZ9CtMUrHpFQZQ-U97HPIY=w240-h480" group-title="NOVELAS Y VARIEDADES", UNIFE
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="NOVELAS Y VARIEDADES", CIUDAD MAGAZINE
 http://45.5.151.62:8000/play/a01d/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_Mexicana_de_Aviacion.jpg/1280px-Logo_Mexicana_de_Aviacion.jpg"group-title="NOVELAS Y VARIEDADES",A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
@@ -2299,7 +2507,7 @@ https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
 https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9c/41/dc/9c41dc9ddbf795124908e31a08b65895.jpg"group-title="NOVELAS Y VARIEDADES",Comedy Central
-http://190.238.43.117:8000/play/a01b/index.m3u8
+http://190.60.41.107:8008/play/a0d7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/COPS.jpg"group-title="NOVELAS Y VARIEDADES",COPS
 https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
@@ -2320,7 +2528,7 @@ https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg"group-title="NOVELAS Y VARIEDADES",FailArmy
-https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=comedy&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=217.216.126.175&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=5552&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=24112149-01c6-4c9f-aeb2-89833a9b1bdc&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1160
+https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/thumbnail_1764954143537.jpg"group-title="NOVELAS Y VARIEDADES",Hechiceras
 https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
@@ -2338,7 +2546,7 @@ https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
 https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png"group-title="NOVELAS Y VARIEDADES",Imagen TV+
-https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
+http://186.33.1.71:8000/play/a06e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/featuredImage.jpg"group-title="NOVELAS Y VARIEDADES",La Selección
 https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
@@ -2371,7 +2579,7 @@ https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/681ba2729624e6275efe0044/featuredImage_1746817065816.jpg"group-title="NOVELAS Y VARIEDADES",NatureTime
-https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel_id=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=animals%2Coutdoors&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=4330&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=d423cda8-d135-456a-b67c-0359b37ee42d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/UFo74BuGo7FYxhAE3DrWUP.jpg"group-title="NOVELAS Y VARIEDADES",Números Paramount +
 https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
@@ -2506,7 +2714,7 @@ https://jmp2.uk/plu-67e5941f0812459cb682d9c6.m3u8
 https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/featuredImage.jpg"group-title="NOVELAS Y VARIEDADES",Rookie Blue: Policías Novatos
-https://amg00353-amg00353c62-rakuten-es-8876.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookiebluespanish-rakutenes/playlist.m3u8?ads_amagi_channel_id=1047&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=crime&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=7055&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=eb9a1146-5c2f-4f36-b7fb-e469b8cd4b0f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_es_1920x1080_0.jpg"group-title="NOVELAS Y VARIEDADES",Runtime
 https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
@@ -2537,17 +2745,17 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/115.png" group-title="MUSICA",HTV
-http://190.238.43.117:8000/play/a035/index.m3u8
+http://181.78.109.48:9998/play/a03u/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/25.png" group-title="MUSICA",MTV 1 HD
-http://190.60.41.107:8008/play/a0ny/index.m3u8
+http://190.108.93.75:8001/play/a04z/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/25.png" audio-track="spa" group-title="MUSICA", MTV 2 
-http://190.60.41.107:8008/play/a0ny/index.m3u8
+http://190.60.41.107:8008/play/a0wy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/W96aAppRU6DJnoLVnbR7DC.jpg"group-title="MUSICA",MTV Biggest Pop
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
@@ -2565,13 +2773,13 @@ https://jmp2.uk/plu-638693db857364000781b471.m3u8
 https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/featuredImage.jpg"group-title="MUSICA",MTV Drag
-http://190.60.41.107:8008/play/a0ny/index.m3u8
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/thumbnail.jpg"group-title="MUSICA",MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/featuredImage_1764875981566.jpg"group-title="MUSICA",MTV 2
-http://190.60.41.107:8008/play/a0ny/index.m3u8
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-MTV-Logo.jpg"group-title="MUSICA",MTV Reality
 https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
@@ -2636,6 +2844,9 @@ https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/v
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/250px-Aspen102.jpg" group-title="MUSICA", ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Billboard-logo-magazine.jpg" group-title="MUSICA", BILLBOARD TV
+https://cdn.pontiscloud.com/output/SMT1/BLBD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/j2gXtBsdNkaCDq-aVGn8IG5tdaj7M4Lz2PpXwKTcB98oH9AAaT6DRakwNRDydHhe9TM" group-title="MUSICA", CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
@@ -2732,6 +2943,7 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vmlatinocr/picture?width=200&height=200" group-title="MUSICA" tvg-name="VM Latino Costa Rica",VM Latino Costa Rica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/30atv/picture?width=200&height=200" group-title="MUSICA" tvg-name="30A Music USA",30A Music USA EN
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
@@ -2833,7 +3045,7 @@ https://daiconnect.com/live/hls/tvup/rk-flamenco/.m3u8?ads_amznbrmid=&ads_amznre
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayGreatestHits&ads.content_livestream=0&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2188&ads.rakuten_streaming_id=cd95cd1a-9e3a-4134-915e-b9728c40d9b6&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883053&ads.xumo_channel_id=88883053&ads.xumo_contentId=1857&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1857&ads.xumo_providerName=stingray-greatest-hits-eng&ads.xumo_streamId=88883053
 
 #EXTINF:-1 tvg-id="stingray-hit-list" tvg-name="stingray-hit-list" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg" group-title="MUSICA" , Stingray: Hitlist
-https://lotus.stingray.com/manifest/ose-107ads-montreal/webapp/master.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayHitlist&ads.content_livestream=0&ads.csid=zeus_eu_stingrayhitlist_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2080&ads.rakuten_streaming_id=b1471073-4f5d-4f1e-b644-5586a5ac6ed8&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883054&ads.xumo_channel_id=88883054&ads.xumo_contentId=1858&ads.xumo_contentName=StingrayHitlist&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1858&ads.xumo_providerName=stingray-hit-list-eng-rakutentv&ads.xumo_streamId=88883054
 
 #EXTINF:-1 tvg-id="stingray-remember-the-80-s" tvg-name="stingray-remember-the-80-s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/32a49d06-f203-4b4a-829c-4d1f66bf6a03.jpeg" group-title="MUSICA" , Stingray: Remember the 80’s
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=RememberThe80sUK&ads.content_livestream=0&ads.csid=zeus_uk_stingrayrememberthe80s_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4883&ads.rakuten_streaming_id=22750d39-30e3-486a-9ae4-d3d7027fe4f9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883071&ads.xumo_channel_id=88883071&ads.xumo_contentId=2184&ads.xumo_contentName=StingrayEverything80s&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2184&ads.xumo_providerName=stingray-remember-the-80s-eng-rakutentv&ads.xumo_streamId=88883071
@@ -2868,10 +3080,11 @@ https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/thumbnail_1754404417227.jpg"group-title="MUSICA",Zona Investigación TV
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 
+
 # ============ TELEVISION INTERNACIONAL (26 canales) ============
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOYscBG6U-9Bbx3OjI3zsT5Bnn90BgWkxW8A&s" group-title="TELEVISION INTERNACIONAL",Antena 3
-http://181.224.255.210:8001/play/a0rc/index.m3u8
+http://181.78.109.48:9998/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/b/b9/Rt_tv_logo.jpg" group-title="TELEVISION INTERNACIONAL", RT 1 En español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
@@ -2883,13 +3096,13 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 http://181.224.255.210:8001/play/a0ra/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/676/CH_LOGO/60/40/0/0/566991570762.png" group-title="TELEVISION INTERNACIONAL",CNN EN ESPAÑOL
-http://181.13.252.102:8000/play/a054/index.m3u8
+http://186.33.1.71:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/62.png" group-title="TELEVISION INTERNACIONAL",CNN International 1
 http://181.224.255.210:8001/play/a0px/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNInt.TV" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="TELEVISION INTERNACIONAL" ,CNN Internacional 2
-http://181.78.109.48:9998/play/a00n/index.m3u8
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="TELEVISION INTERNACIONAL",DW
 http://181.78.85.59:2500/play/a035/index.m3u8
@@ -2915,6 +3128,9 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="TELEVISION INTERNACIONAL",TV Chile
+https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/59.png" group-title="TELEVISION INTERNACIONAL",TVE
 http://181.224.255.210:8001/play/a0q9/index.m3u8
 
@@ -3027,10 +3243,10 @@ https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg010
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-id="azteca-uno-1-hora" tvg-name="azteca-uno-1-hora" tvg-logo="https://i.ytimg.com/vi/OyhPik0Hr0w/sddefault.jpg" group-title="TELEVISION INTERNACIONAL" , AZTECA 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+http://186.33.1.71:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.prensario.net/multimedios/imgs/55254_750.jpg"group-title="TELEVISION INTERNACIONAL",TeleFórmula
-https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
+http://186.33.1.71:8000/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg-originals-new" tvg-name="bloomberg-originals-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d6c3cf95-3570-44fa-a3db-ca215ded6396.jpeg" group-title="TELEVISION INTERNACIONAL" , Bloomberg Originals
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1%2CIAB12&ads.content_genre=documentary%2Cnews%2Cbusiness&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=217.216.126.175&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_content_id=6907&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=9c40abd8-2708-45e0-a21f-f273e3f768ca&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1768
@@ -3043,6 +3259,8 @@ https://amg01076-amg01076c25-rakuten-es-8818.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-id="france-24-en" tvg-name="france-24-en" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" group-title="TELEVISION INTERNACIONAL" , France 24 FAST English
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel_id=938&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=6311&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=7bfc628a-53ef-4686-9559-8d955d87d911&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+
 
 # ============ RADIOS - CORDOBA (22 canales) ============
 
@@ -3111,6 +3329,7 @@ https://inliveserver.com:1936/9018/9018/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiocardinal.com.ar/wp-content/uploads/2023/01/cropped-loco-cardinal-120-pix-transparente.png" group-title="RADIOS - CORDOBA", Cardinal C99 89.7 FM Miramar
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+
 
 # ============ RADIOS - SANTA FE (31 canales) ============
 
@@ -3201,8 +3420,12 @@ https://nd106.republicaservers.com:4433/hls/c7410/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocosta.com.ar/img/BANNER.png" group-title="RADIOS - SANTA FE", Radio Costa 88.9 FM Alejandra
 https://videohd.live:19360/8098/8098.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh16hSKsbo73YHQMTouLYIsgjFGZKbqg55iDQ1-ukdlTuawW6R_Flu5eq-kJRensTZ3M5c7gLnc4KbcFZRV6hiUwobW5M0veCbxrUWumRu8H9Dh8aEzjRlncomFXH8KOKDHz2Ccd1m_gWzlAK8OUKDLchOTUfSrBYDaeOtMEPR9lxaDqm1pQo_3dpzZZZA/s200-rw/LOGO-PLAYME-TV-1-e1746724625651-150x150.png" group-title="RADIOS - SANTA FE", Radio Vector 98.7 FM Rafaela
+https://mediastore02.playme.com.ar/dash/CH_VECTOR/playlist.mpd
+
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/29-2.jpg" group-title="RADIOS - SANTA FE", La Vitrola TV Santa Fe
 https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
+
 
 # ============ RADIOS - MENDOZA (9 canales) ============
 
@@ -3221,8 +3444,18 @@ https://5f700d5b2c46f.streamlock.net/fmjardin/fmjardin/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICIUDME.png" group-title="RADIOS - MENDOZA", CIUDAD FM 90.5 MENDOZA
 https://cs1.xcast.com.br/7214/7214/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUWjftAU1pbbldqwWKAwmAXYzJeAcYudazA&s" group-title="RADIOS - MENDOZA", Radio 1 Alvear
+https://cdn.pontiscloud.com/output/SMT4/R1D/output.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsqE7OHvHnuYyp9XAX6pkfyZ0l2C0ISKklvQ&s" group-title="RADIOS - MENDOZA", Radio Joven
+https://cdn.pontiscloud.com/output/SMT4/RJD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://radioarg.net/storage/radios/7717/9839/conversions/vinas-lg.webp" group-title="RADIOS - MENDOZA", Radio Viñas
+https://cdn.pontiscloud.com/output/SMT4/RVD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIUL1047.png" group-title="RADIOS - MENDOZA", Unidos en Libertad 104.7 FM  Maipú
 https://panel.host-live.com:19360/8120/8120.m3u8
+
 
 # ============ RADIOS - SALTA (3 canales) ============
 
@@ -3234,6 +3467,7 @@ https://vivo.solumedia.com:19360/infinito965/infinito965.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioinfo.ar/archivos/clientes_logos/16364316978.jpg" group-title="RADIOS - SALTA", Salta YA Cadena 3 92.7 FM
 https://videostream.shockmedia.com.ar:19360/fmlatina925/fmlatina925.m3u8
+
 
 # ============ RADIOS - MISIONES (6 canales) ============
 
@@ -3254,6 +3488,7 @@ https://iptv.ixfo.com.ar:30443/live/PoliciaIdentidadTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://open1017.com/archivos/1ac121a5f4cb0fa7a9218b437b939c9b_370x124.png" group-title="RADIOS - MISIONES", RADIO OPEN 101.7 POSADAS
 https://5f700d5b2c46f.streamlock.net/open1017/open1017/playlist.m3u8
+
 
 # ============ RADIOS - ENTRE RIOS (7 canales) ============
 
@@ -3278,6 +3513,7 @@ https://cs1.xcast.com.br/7546/7546/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://plazaweb.com.ar/wp-content/uploads/2023/07/plaza-x1-300x65.png" group-title="RADIOS - ENTRE RIOS", Plaza 94.7 FM Paraná
 https://stream.arcast.net:4443/plazavideo/ngrp:plazavideo_all/playlist.m3u8
 
+
 # ============ RADIOS - CORRIENTES (2 canales) ============
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIOS - CORRIENTES", RADIO AZAHARES FM 101.5 CORRIENTES
@@ -3285,6 +3521,7 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmlatribuna.com/2020/wp-content/uploads/2020/05/logolatribuna.jpg" group-title="RADIOS - CORRIENTES", La Tribuna 103.5 FM Mercedes
 https://stmv5.livecastv.com/latribuna/latribuna/playlist.m3u8
+
 
 # ============ RADIOS - CHACO (4 canales) ============
 
@@ -3299,6 +3536,7 @@ https://tv.streamcasthd.com:3752/live/classfmtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://losprotagonistastv.com.ar/wp-content/uploads/2025/03/banerlogo2025-1.jpg" group-title="RADIOS - CHACO", Resistencia 90.3 FM
 https://tv.streamcasthd.com:3330/live/losprotagonistastvlive.m3u8
+
 
 # ============ RADIOS - NEUQUEN (10 canales) ============
 
@@ -3332,10 +3570,12 @@ https://live.capital885.com.ar/fmcapital/885/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/39058098/39058098-1695083482472-82e78fd95d4e5.jpg" group-title="RADIOS - NEUQUEN", RADIO 7 NEUQUEN
 https://stream.arcast.net:4443/radio7neuquen/ngrp:radio7neuquen_all/playlist.m3u8
 
+
 # ============ RADIOS - RIO NEGRO (1 canales) ============
 
 #EXTINF:-1 tvg-logo="https://zerofm.com.ar/_astro/radiozerologo.2iQv7x2O.png" group-title="RADIOS - RIO NEGRO", Zero 94.5 FM Catriel
 https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
+
 
 # ============ RADIOS - CHUBUT (4 canales) ============
 
@@ -3351,10 +3591,12 @@ https://videostream.shockmedia.com.ar:19360/isonica/isonica.m3u8
 #EXTINF:-1 tvg-logo="https://universoradio895.com/imagenes/banner.png" group-title="RADIOS - CHUBUT", Universo 89.5 FM
 https://videostream.shockmedia.com.ar:19360/universoradio895/universoradio895.m3u8
 
+
 # ============ RADIOS - JUJUY (1 canales) ============
 
 #EXTINF:-1 tvg-logo="https://www.radiocityfm.com/images/index/social-logo-rc-390x360.png" group-title="RADIOS - JUJUY", RADIOCITY JUJUY
 https://5cd577a3dd8ec.streamlock.net/RADIOCITY/live_720/playlist.m3u8
+
 
 # ============ RADIOS - SAN JUAN (3 canales) ============
 
@@ -3367,6 +3609,7 @@ https://live.enhdtv.com:8081/concepto/index.m3u8
 #EXTINF:-1 tvg-logo="https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo1-qvcz17sarc8mp5ikc82wnbekikpiir7mvpns79xwvw.png" group-title="RADIOS - SAN JUAN", RADIO ACTIVA 88.9 FM SAN JUAN
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/chunklist_w690839647.m3u8
 
+
 # ============ RADIOS - SANTA CRUZ (2 canales) ============
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000677072657/5258433abf9a1b4799167bd2c8506dbe_400x400.jpeg" group-title="RADIOS - SANTA CRUZ", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
@@ -3374,6 +3617,7 @@ https://streamlov.alsolnet.com/radiomediaticatv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIOS - SANTA CRUZ", Municipal 87.9 FM Caleta Olivia
 https://vivo.solumedia.com:19360/caletaolivia/caletaolivia.m3u8
+
 
 # ============ RADIOS - TIERRA DEL FUEGO (4 canales) ============
 
@@ -3389,10 +3633,12 @@ https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1334879582147780614/9pfkP9y-_400x400.jpg" group-title="RADIOS - TIERRA DEL FUEGO", AIRE LIBRE 96.3 FM RIO GRANDE - TIERRA DEL FUEGO
 https://5f700d5b2c46f.streamlock.net/airelibrefm/airelibrefm/playlist.m3u8
 
+
 # ============ RADIOS - CATAMARCA (1 canales) ============
 
 #EXTINF:-1 tvg-logo="https://radiovalleviejo.com/wp-content/uploads/2025/12/RVV-500x150-1.png" group-title="RADIOS - CATAMARCA", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 https://stream.arcast.ar/radiovalleviejo/ngrp:radiovalleviejo_all/chunklist_w1011000286_b861000.m3u8
+
 
 # ============ RADIOS - OTRAS (72 canales) ============
 
@@ -3618,6 +3864,7 @@ https://live20.bozztv.com/giatv/giatv-mylamil35tv/mylamil35tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lu22.com.ar/img/logo-footer.png?v=1.26" group-title="RADIOS - OTRAS", LU22 Tandil 1140 AM Tandil
 https://videostream.shockmedia.com.ar:19360/lu22radiotandil/lu22radiotandil.m3u8
 
+
 # ============ SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7 (91 canales) ============
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Los Simpson 1
@@ -3625,6 +3872,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPS0RiY8Zxf1hccNQprxg0rTY4ZGmyD2-KhQ&s" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Los Simpson 2
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Los Simpson 3
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
@@ -3634,6 +3882,7 @@ http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/9/9d/South_Park_Logo_by_Sonic_Gal007.png/revision/latest?cb=20120623192851&path-prefix=es"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/blackcoffe/images/9/9d/South_Park_Logo_by_Sonic_Gal007.png/revision/latest?cb=20120623192851&path-prefix=es"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",South Park - Coleccion Cartman
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
@@ -3747,10 +3996,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="317875" tvg-name="Anime Vision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png?fbclid=IwY2xjawJS0R1leHRuA2FlbQIxMAABHfdrsnCwOd_z2m0RaOi0gnSEdbqx3rywbrGG_xHQm8wzC8lEKlpaXLA3QQ_aem_2FZeF-cYCGCuaUpJMJXUZA" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Anime Vision
-https://daiconnect.com/live/hls/tvup/rk-animevision/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=6089&ads_content_categories=IAB1&ads_content_genre=animation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=7129&ads_rtv_content_language=es&ads_streaming_id=3bc12028-04f7-48da-b187-b2f4bc4b1cff&ads_tcs_channel_id=6089&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
 #EXTINF:-1 tvg-id="317876" tvg-name="Anime Vision Classics" tvg-logo="https://i.ibb.co/TD1wyybD/Logo-Anime-Vision-Classics.png?fbclid=IwY2xjawJS0fRleHRuA2FlbQIxMAABHW3EIdh5vaYeZ6bo2h6kuCSyJSQ88EB9jEBf9A3OaudD0XJ3OpNqQTpsCg_aem_Lki0i5M885XVG8j3yHbQ5A" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Anime Vision Classics
-https://daiconnect.com/live/hls/tvup/rk-animevisionclassics/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=6090&ads_content_categories=IAB1&ads_content_genre=animation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=7128&ads_rtv_content_language=es&ads_streaming_id=af9e02b5-9445-4a2c-970e-f773098049dc&ads_tcs_channel_id=6090&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
 #EXTINF:-1 tvg-id="317085" tvg-name="Cartooncito" tvg-logo="https://i.postimg.cc/CxQvLVyK/Captura-de-pantalla-2025-08-25-001806.png" group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7", Cartooncito
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/chunks.m3u8
@@ -3834,7 +4083,7 @@ https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/245f5688953583.5de65df060c25.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Comedy Central South Park
-http://190.60.41.107:8008/play/a0d7/index.m3u8
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Death_Note.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Death Note
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
@@ -3875,10 +4124,11 @@ https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/yugiohenespanol/images/f/f0/Yu-Gi-Oh%21_JCC.jpg"group-title="SERIES INFANTILES RETRO Y NUEVAS ANIMADAS 24/7",Yu-Gi-Oh
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8?ads_amagi_channel_id=1007&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=action%2Canimation&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=6780&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=6186d974-3ed0-46fc-a6b2-c2990f02872f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
+
 # ============ SERIES Y CANALES NUEVOS DE PRUEBA (47 canales) ============
 
 #EXTINF:-1 tvg-name="Red Bull TV (UK / IE)" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/37de7fc3-174e-4113-bcda-4650d31d97de" group-title="SERIES Y CANALES NUEVOS DE PRUEBA",Red Bull TV UK/IE
-https://badbd0085e4940cfa48fdbb1226e7cbc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORB-UK-EN-FAST-FREELIVESPORTS/932/freelivesports/hls/master/playlist.m3u8?ads.channel_name=Red%20Bull%20TV%20UK%20IE&ads.content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ads.iab_category=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.language=en&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
+https://badbd0085e4940cfa48fdbb1226e7cbc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORB-UK-EN-FAST-FREELIVESPORTS/932/freelivesports/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV (Spain)" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/af323f32-15cf-4c11-9d97-178ab8963992" group-title="SERIES Y CANALES NUEVOS DE PRUEBA",Red Bull TV Spain
 https://76eb25c25d284d038e4a785c7c982f9d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORB-LATAM-ES-FAST-FREELIVESPORTS/957/freelivesports/hls/master/playlist.m3u8?ads.channel_name=Red%20Bull%20TV%20Spain&ads.content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ads.iab_category=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.language=en&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
@@ -3899,10 +4149,13 @@ https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-
 https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8?ads_amagi_channel_id=1060&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=hobbies&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.175&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=1278&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=aadcc310-c9da-45dc-b7d7-7e64578d8776&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-name="Greatest Sports Legends & Laughs" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/23e783cc-61c9-4cc4-b30f-bd7203fa4f62" group-title="SERIES Y CANALES NUEVOS DE PRUEBA",Greatest Sports Legends
-https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_GreatestSportsLegendsandLaughs/playlist.m3u8?ads.wurl_channel=1813&ads.wurl_name=GreatestSportsLegendsandLaughs&ads.channel_name=Greatest%20Sports%20Legends%20Laughs&ads.content_genre=Sport&ads.ic=IAB17&ads.rating=PG&ads.language=US&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.content_url=[REF]&ads.dnt=[LAT]&ads.device_id=[DEVICE_ID]
+https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_GreatestSportsLegendsandLaughs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CINCO TV TIGRE  30.1
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.barricadatv.org/wp-content/uploads/2024/04/Logo-negro-y-verde.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", BARRICADA TV 32.1
+https://cdn.pontiscloud.com/output/SMT6/BTVD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://bayrestv.com.ar/logo-bayres-tv.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", Bayres TV 18.1
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
@@ -3916,11 +4169,21 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 #EXTINF:-1 tvg-logo="https://www.canalsiete.com.ar/wp-content/uploads/2020/05/Logoweb_2021.png.webp" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 7 BAHIA BLANCA
 https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 8 MAR DEL PLATA
+https://cdn.pontiscloud.com/output/SMT2/C8MPD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2508/CH_LOGO/800/542/0/0/11083432076534.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CLYFER TV
+https://cdn.pontiscloud.com/output/ARR/CLYFERD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3342/CH_LOGO/800/542/0/0/41079403078757.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CELTTV Tornquist
+https://cdn.pontiscloud.com/output/SMT3/CELTTVD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZT5_deBcKFEVXumsHy5NxJYT6K54jrA0v86bWHpQ9lw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", EPS TV BRAGADO
 https://cp.panelchs.com:1936/8146/ngrp:8146_all/playist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bragadotv.com.ar/images/custom/logo.png?_v=31" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", BRAGADO TV
 https://cp.panelchs.com:1936/8206/ngrp:8206_all/chunklist_w1270737246_b1596000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ppTIzAwf9dU/maxresdefault.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 5 TANDIL
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
@@ -3936,6 +4199,12 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 
 #EXTINF:-1 tvg-logo="https://mutquin.com.ar/wp-content/uploads/2026/03/FB_IMG_1774274559256-392x272.jpg" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", Municipal 96.3 FM Mutquin CATAMARCA
 https://tv.streamcasthd.com:3787/live/fmmutquintvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 8 SAN JUAN
+https://netium.cdn.rcs.net.ar/onpower/canal8_dash/canal8/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Canal_13_San_Juan.svg/250px-Canal_13_San_Juan.svg.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", CANAL 13 SAN JUAN
+https://netium.cdn.rcs.net.ar/ixp-sanjuan/dash/c13/index.mpd
 
 #EXTINF:-1 tvg-logo="https://albardontv.com/wp-content/uploads/2025/06/ALBARDON-TV-150x150.png" group-title="SERIES Y CANALES NUEVOS DE PRUEBA", ALBARDON TV
 https://vd01.streaminghd.net.ar:3814/stream/play.m3u8
@@ -4050,10 +4319,11 @@ https://encoder-1b.montevision.com.ar/hls/monte2.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logotipo-caridad-cuidado-amor-familiar_579179-2518.jpg" group-title="SERIES Y CANALES DE PRUEBA", SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
+
 # ============ COLOMBIA (13 canales) ============
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1280px-Caracol_TV_HD_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="COLOMBIA",Caracol HD
-http://179.1.238.35:8000/play/a01d/index.m3u8
+http://186.33.1.71:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/RCN_Corporation_logo.svg/960px-RCN_Corporation_logo.svg.png" group-title="COLOMBIA",RCN
 http://179.1.238.35:8000/play/a01e/index.m3u8
@@ -4091,15 +4361,18 @@ http://181.78.85.59:2500/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="COLOMBIA",Canal Congreso Colombia
 http://181.78.85.59:2500/play/a03w/index.m3u8
 
+
 # ============ GENERACION DORADA (0 canales) ============
+
 
 # ============ ADULTOS XXX 18+ (3 canales) ============
 
 #EXTINF:-1 group-title="ADULTOS XXX 18+"  tvg-logo="https://crystalpng.com/wp-content/uploads/2025/02/Playboy-logo-png.png",Playboy HD
-http://181.224.255.210:8001/play/a0lo/index.m3u8
+http://190.108.93.75:8001/play/a08a/index.m3u8
 
 #EXTINF:-1 group-title="ADULTOS XXX 18+" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/02/Playboy-logo-png.png",Playboy
-http://181.224.255.210:8001/play/a0lo/index.m3u8
+http://181.78.109.48:9998/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/330px-Canal_Venus_logo.svg.png" group-title="ADULTOS XXX 18+",VENUS
-http://190.60.41.107:8008/play/a0yv/index.m3u8
+http://181.78.109.48:9998/play/a03z/index.m3u8
+
